@@ -1,0 +1,710 @@
+﻿"";BBIN1.M.DE.BBK.BBKDIS.DEM.ME;BBIN1.M.DE.BBK.BBKDIS.DEM.ME_FLAGS
+"";Diskontsatz der Deutschen Bundesbank / Stand am Monatsende / SU0112;
+Dezimalstellen;2;
+Dimension;Eins;
+Einheit;% p.a.;
+Format der Zeitangabe;P1M;
+Grafikposition;E;
+Kategorie;GKZR;
+Kommentar;"Bis 31. Juli 1990 zugleich Zinssatz für Kassenkredite. Bis Mai 1956 galten für Auslandswechsel und Exporttratten auch niedrigere Sätze; für bestimmte Kredite an die Kreditanstalt für Wiederaufbau, die Ende 1958 ausliefen, wurden feste Sondersätze berechnet (Einzelheiten siehe Anmerkungen zur Tabelle ""Diskont- und Lombardsatz der Deutschen Bundesbank"" im Geschäftsbericht für das Jahr 1961, S.95). Gemäß Diskontsatz-Überleitungs-Gesetz (DÜG) i.V. mit der Basiszinssatz-Bezugsgrößen-Verordnung wird ab 1. Januar 1999 der Diskontsatz, soweit dieser in Verträgen und Vorschriften als Bezugsgröße für Zinsen und andere Leistungen verwendet wird, durch den Basiszinssatz gemäß DÜG ersetzt (s. Zeitreihe BBIN1.M.DE.BBK.BBKBAS1.EUR.ME). Ab 1. Januar 2002 tritt, soweit der Diskontsatz sowie der Basiszinssatz gemäß DÜG als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach dem Einführungsgesetz zum BGB (EGBGB) vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet werden, an deren Stelle der Basiszinssatz gemäß § 247 BGB (s. Zeitreihe BBIN1.M.DE.BBK.BBKBAS2.EUR.ME). Gemäß Versicherungskapitalanlagen-Bewertungsgesetz (VersKapAG) Artikel 4 § 1 werden das DÜG und die Basiszinssatz-Bezugsgrößen-Verordnung aufgehoben. Nach Artikel 4 § 2 VersKapAG tritt ab 4. April 2002 an die Stelle des Diskontsatzes und des Basiszinssatzes gemäß DÜG der Basiszinssatz gemäß § 247 BGB.";
+Stand vom;11.09.2024 11:40:20 Uhr;
+1948-07;5,00;Bemerkung
+1948-08;5,00;
+1948-09;5,00;
+1948-10;5,00;
+1948-11;5,00;
+1948-12;5,00;
+1949-01;5,00;
+1949-02;5,00;
+1949-03;5,00;
+1949-04;5,00;
+1949-05;4,50;Bemerkung
+1949-06;4,50;
+1949-07;4,00;Bemerkung
+1949-08;4,00;
+1949-09;4,00;
+1949-10;4,00;
+1949-11;4,00;
+1949-12;4,00;
+1950-01;4,00;
+1950-02;4,00;
+1950-03;4,00;
+1950-04;4,00;
+1950-05;4,00;
+1950-06;4,00;
+1950-07;4,00;
+1950-08;4,00;
+1950-09;4,00;
+1950-10;6,00;Bemerkung
+1950-11;6,00;
+1950-12;6,00;
+1951-01;6,00;
+1951-02;6,00;
+1951-03;6,00;
+1951-04;6,00;
+1951-05;6,00;
+1951-06;6,00;
+1951-07;6,00;
+1951-08;6,00;
+1951-09;6,00;
+1951-10;6,00;
+1951-11;6,00;
+1951-12;6,00;
+1952-01;6,00;
+1952-02;6,00;
+1952-03;6,00;
+1952-04;6,00;
+1952-05;5,00;Bemerkung
+1952-06;5,00;
+1952-07;5,00;
+1952-08;4,50;Bemerkung
+1952-09;4,50;
+1952-10;4,50;
+1952-11;4,50;
+1952-12;4,50;
+1953-01;4,00;Bemerkung
+1953-02;4,00;
+1953-03;4,00;
+1953-04;4,00;
+1953-05;4,00;
+1953-06;3,50;Bemerkung
+1953-07;3,50;
+1953-08;3,50;
+1953-09;3,50;
+1953-10;3,50;
+1953-11;3,50;
+1953-12;3,50;
+1954-01;3,50;
+1954-02;3,50;
+1954-03;3,50;
+1954-04;3,50;
+1954-05;3,00;Bemerkung
+1954-06;3,00;
+1954-07;3,00;
+1954-08;3,00;
+1954-09;3,00;
+1954-10;3,00;
+1954-11;3,00;
+1954-12;3,00;
+1955-01;3,00;
+1955-02;3,00;
+1955-03;3,00;
+1955-04;3,00;
+1955-05;3,00;
+1955-06;3,00;
+1955-07;3,00;
+1955-08;3,50;Bemerkung
+1955-09;3,50;
+1955-10;3,50;
+1955-11;3,50;
+1955-12;3,50;
+1956-01;3,50;
+1956-02;3,50;
+1956-03;4,50;Bemerkung
+1956-04;4,50;
+1956-05;5,50;Bemerkung
+1956-06;5,50;
+1956-07;5,50;
+1956-08;5,50;
+1956-09;5,00;Bemerkung
+1956-10;5,00;
+1956-11;5,00;
+1956-12;5,00;
+1957-01;4,50;Bemerkung
+1957-02;4,50;
+1957-03;4,50;
+1957-04;4,50;
+1957-05;4,50;
+1957-06;4,50;
+1957-07;4,50;
+1957-08;4,50;
+1957-09;4,00;Bemerkung
+1957-10;4,00;
+1957-11;4,00;
+1957-12;4,00;
+1958-01;3,50;Bemerkung
+1958-02;3,50;
+1958-03;3,50;
+1958-04;3,50;
+1958-05;3,50;
+1958-06;3,00;Bemerkung
+1958-07;3,00;
+1958-08;3,00;
+1958-09;3,00;
+1958-10;3,00;
+1958-11;3,00;
+1958-12;3,00;
+1959-01;2,75;Bemerkung
+1959-02;2,75;
+1959-03;2,75;
+1959-04;2,75;
+1959-05;2,75;
+1959-06;2,75;
+1959-07;2,75;
+1959-08;2,75;
+1959-09;3,00;Bemerkung
+1959-10;4,00;Bemerkung
+1959-11;4,00;
+1959-12;4,00;
+1960-01;4,00;
+1960-02;4,00;
+1960-03;4,00;
+1960-04;4,00;
+1960-05;4,00;
+1960-06;5,00;Bemerkung
+1960-07;5,00;
+1960-08;5,00;
+1960-09;5,00;
+1960-10;5,00;
+1960-11;4,00;Bemerkung
+1960-12;4,00;
+1961-01;3,50;Bemerkung
+1961-02;3,50;
+1961-03;3,50;
+1961-04;3,50;
+1961-05;3,00;Bemerkung
+1961-06;3,00;
+1961-07;3,00;
+1961-08;3,00;
+1961-09;3,00;
+1961-10;3,00;
+1961-11;3,00;
+1961-12;3,00;
+1962-01;3,00;
+1962-02;3,00;
+1962-03;3,00;
+1962-04;3,00;
+1962-05;3,00;
+1962-06;3,00;
+1962-07;3,00;
+1962-08;3,00;
+1962-09;3,00;
+1962-10;3,00;
+1962-11;3,00;
+1962-12;3,00;
+1963-01;3,00;
+1963-02;3,00;
+1963-03;3,00;
+1963-04;3,00;
+1963-05;3,00;
+1963-06;3,00;
+1963-07;3,00;
+1963-08;3,00;
+1963-09;3,00;
+1963-10;3,00;
+1963-11;3,00;
+1963-12;3,00;
+1964-01;3,00;
+1964-02;3,00;
+1964-03;3,00;
+1964-04;3,00;
+1964-05;3,00;
+1964-06;3,00;
+1964-07;3,00;
+1964-08;3,00;
+1964-09;3,00;
+1964-10;3,00;
+1964-11;3,00;
+1964-12;3,00;
+1965-01;3,50;Bemerkung
+1965-02;3,50;
+1965-03;3,50;
+1965-04;3,50;
+1965-05;3,50;
+1965-06;3,50;
+1965-07;3,50;
+1965-08;4,00;Bemerkung
+1965-09;4,00;
+1965-10;4,00;
+1965-11;4,00;
+1965-12;4,00;
+1966-01;4,00;
+1966-02;4,00;
+1966-03;4,00;
+1966-04;4,00;
+1966-05;5,00;Bemerkung
+1966-06;5,00;
+1966-07;5,00;
+1966-08;5,00;
+1966-09;5,00;
+1966-10;5,00;
+1966-11;5,00;
+1966-12;5,00;
+1967-01;4,50;Bemerkung
+1967-02;4,00;Bemerkung
+1967-03;4,00;
+1967-04;3,50;Bemerkung
+1967-05;3,00;Bemerkung
+1967-06;3,00;
+1967-07;3,00;
+1967-08;3,00;
+1967-09;3,00;
+1967-10;3,00;
+1967-11;3,00;
+1967-12;3,00;
+1968-01;3,00;
+1968-02;3,00;
+1968-03;3,00;
+1968-04;3,00;
+1968-05;3,00;
+1968-06;3,00;
+1968-07;3,00;
+1968-08;3,00;
+1968-09;3,00;
+1968-10;3,00;
+1968-11;3,00;
+1968-12;3,00;
+1969-01;3,00;
+1969-02;3,00;
+1969-03;3,00;
+1969-04;4,00;Bemerkung
+1969-05;4,00;
+1969-06;5,00;Bemerkung
+1969-07;5,00;
+1969-08;5,00;
+1969-09;6,00;Bemerkung
+1969-10;6,00;
+1969-11;6,00;
+1969-12;6,00;
+1970-01;6,00;
+1970-02;6,00;
+1970-03;7,50;Bemerkung
+1970-04;7,50;
+1970-05;7,50;
+1970-06;7,50;
+1970-07;7,00;Bemerkung
+1970-08;7,00;
+1970-09;7,00;
+1970-10;7,00;
+1970-11;6,50;Bemerkung
+1970-12;6,00;Bemerkung
+1971-01;6,00;
+1971-02;6,00;
+1971-03;6,00;
+1971-04;5,00;Bemerkung
+1971-05;5,00;
+1971-06;5,00;
+1971-07;5,00;
+1971-08;5,00;
+1971-09;5,00;
+1971-10;4,50;Bemerkung
+1971-11;4,50;
+1971-12;4,00;Bemerkung
+1972-01;4,00;
+1972-02;3,00;Bemerkung
+1972-03;3,00;
+1972-04;3,00;
+1972-05;3,00;
+1972-06;3,00;
+1972-07;3,00;
+1972-08;3,00;
+1972-09;3,00;
+1972-10;3,50;Bemerkung
+1972-11;4,00;Bemerkung
+1972-12;4,50;Bemerkung
+1973-01;5,00;Bemerkung
+1973-02;5,00;
+1973-03;5,00;
+1973-04;5,00;
+1973-05;6,00;Bemerkung
+1973-06;7,00;Bemerkung
+1973-07;7,00;
+1973-08;7,00;
+1973-09;7,00;
+1973-10;7,00;
+1973-11;7,00;
+1973-12;7,00;
+1974-01;7,00;
+1974-02;7,00;
+1974-03;7,00;
+1974-04;7,00;
+1974-05;7,00;
+1974-06;7,00;
+1974-07;7,00;
+1974-08;7,00;
+1974-09;7,00;
+1974-10;6,50;Bemerkung
+1974-11;6,50;
+1974-12;6,00;Bemerkung
+1975-01;6,00;
+1975-02;5,50;Bemerkung
+1975-03;5,00;Bemerkung
+1975-04;5,00;
+1975-05;4,50;Bemerkung
+1975-06;4,50;
+1975-07;4,50;
+1975-08;4,00;Bemerkung
+1975-09;3,50;Bemerkung
+1975-10;3,50;
+1975-11;3,50;
+1975-12;3,50;
+1976-01;3,50;
+1976-02;3,50;
+1976-03;3,50;
+1976-04;3,50;
+1976-05;3,50;
+1976-06;3,50;
+1976-07;3,50;
+1976-08;3,50;
+1976-09;3,50;
+1976-10;3,50;
+1976-11;3,50;
+1976-12;3,50;
+1977-01;3,50;
+1977-02;3,50;
+1977-03;3,50;
+1977-04;3,50;
+1977-05;3,50;
+1977-06;3,50;
+1977-07;3,50;
+1977-08;3,50;
+1977-09;3,50;
+1977-10;3,50;
+1977-11;3,50;
+1977-12;3,00;Bemerkung
+1978-01;3,00;
+1978-02;3,00;
+1978-03;3,00;
+1978-04;3,00;
+1978-05;3,00;
+1978-06;3,00;
+1978-07;3,00;
+1978-08;3,00;
+1978-09;3,00;
+1978-10;3,00;
+1978-11;3,00;
+1978-12;3,00;
+1979-01;3,00;
+1979-02;3,00;
+1979-03;4,00;Bemerkung
+1979-04;4,00;
+1979-05;4,00;
+1979-06;4,00;
+1979-07;5,00;Bemerkung
+1979-08;5,00;
+1979-09;5,00;
+1979-10;5,00;
+1979-11;6,00;Bemerkung
+1979-12;6,00;
+1980-01;6,00;
+1980-02;7,00;Bemerkung
+1980-03;7,00;
+1980-04;7,00;
+1980-05;7,50;Bemerkung
+1980-06;7,50;
+1980-07;7,50;
+1980-08;7,50;
+1980-09;7,50;
+1980-10;7,50;
+1980-11;7,50;
+1980-12;7,50;
+1981-01;7,50;
+1981-02;7,50;
+1981-03;7,50;
+1981-04;7,50;
+1981-05;7,50;
+1981-06;7,50;
+1981-07;7,50;
+1981-08;7,50;
+1981-09;7,50;
+1981-10;7,50;
+1981-11;7,50;
+1981-12;7,50;
+1982-01;7,50;
+1982-02;7,50;
+1982-03;7,50;
+1982-04;7,50;
+1982-05;7,50;
+1982-06;7,50;
+1982-07;7,50;
+1982-08;7,00;Bemerkung
+1982-09;7,00;
+1982-10;6,00;Bemerkung
+1982-11;6,00;
+1982-12;5,00;Bemerkung
+1983-01;5,00;
+1983-02;5,00;
+1983-03;4,00;Bemerkung
+1983-04;4,00;
+1983-05;4,00;
+1983-06;4,00;
+1983-07;4,00;
+1983-08;4,00;
+1983-09;4,00;
+1983-10;4,00;
+1983-11;4,00;
+1983-12;4,00;
+1984-01;4,00;
+1984-02;4,00;
+1984-03;4,00;
+1984-04;4,00;
+1984-05;4,00;
+1984-06;4,50;Bemerkung
+1984-07;4,50;
+1984-08;4,50;
+1984-09;4,50;
+1984-10;4,50;
+1984-11;4,50;
+1984-12;4,50;
+1985-01;4,50;
+1985-02;4,50;
+1985-03;4,50;
+1985-04;4,50;
+1985-05;4,50;
+1985-06;4,50;
+1985-07;4,50;
+1985-08;4,00;Bemerkung
+1985-09;4,00;
+1985-10;4,00;
+1985-11;4,00;
+1985-12;4,00;
+1986-01;4,00;
+1986-02;4,00;
+1986-03;3,50;Bemerkung
+1986-04;3,50;
+1986-05;3,50;
+1986-06;3,50;
+1986-07;3,50;
+1986-08;3,50;
+1986-09;3,50;
+1986-10;3,50;
+1986-11;3,50;
+1986-12;3,50;
+1987-01;3,00;Bemerkung
+1987-02;3,00;
+1987-03;3,00;
+1987-04;3,00;
+1987-05;3,00;
+1987-06;3,00;
+1987-07;3,00;
+1987-08;3,00;
+1987-09;3,00;
+1987-10;3,00;
+1987-11;3,00;
+1987-12;2,50;Bemerkung
+1988-01;2,50;
+1988-02;2,50;
+1988-03;2,50;
+1988-04;2,50;
+1988-05;2,50;
+1988-06;2,50;
+1988-07;3,00;Bemerkung
+1988-08;3,50;Bemerkung
+1988-09;3,50;
+1988-10;3,50;
+1988-11;3,50;
+1988-12;3,50;
+1989-01;4,00;Bemerkung
+1989-02;4,00;
+1989-03;4,00;
+1989-04;4,50;Bemerkung
+1989-05;4,50;
+1989-06;5,00;Bemerkung
+1989-07;5,00;
+1989-08;5,00;
+1989-09;5,00;
+1989-10;6,00;Bemerkung
+1989-11;6,00;
+1989-12;6,00;
+1990-01;6,00;
+1990-02;6,00;
+1990-03;6,00;
+1990-04;6,00;
+1990-05;6,00;
+1990-06;6,00;
+1990-07;6,00;
+1990-08;6,00;
+1990-09;6,00;
+1990-10;6,00;
+1990-11;6,00;
+1990-12;6,00;
+1991-01;6,00;
+1991-02;6,50;Bemerkung
+1991-03;6,50;
+1991-04;6,50;
+1991-05;6,50;
+1991-06;6,50;
+1991-07;6,50;
+1991-08;7,50;Bemerkung
+1991-09;7,50;
+1991-10;7,50;
+1991-11;7,50;
+1991-12;8,00;Bemerkung
+1992-01;8,00;
+1992-02;8,00;
+1992-03;8,00;
+1992-04;8,00;
+1992-05;8,00;
+1992-06;8,00;
+1992-07;8,75;Bemerkung
+1992-08;8,75;
+1992-09;8,25;Bemerkung
+1992-10;8,25;
+1992-11;8,25;
+1992-12;8,25;
+1993-01;8,25;
+1993-02;8,00;Bemerkung
+1993-03;7,50;Bemerkung
+1993-04;7,25;Bemerkung
+1993-05;7,25;
+1993-06;7,25;
+1993-07;6,75;Bemerkung
+1993-08;6,75;
+1993-09;6,25;Bemerkung
+1993-10;5,75;Bemerkung
+1993-11;5,75;
+1993-12;5,75;
+1994-01;5,75;
+1994-02;5,25;Bemerkung
+1994-03;5,25;
+1994-04;5,00;Bemerkung
+1994-05;4,50;Bemerkung
+1994-06;4,50;
+1994-07;4,50;
+1994-08;4,50;
+1994-09;4,50;
+1994-10;4,50;
+1994-11;4,50;
+1994-12;4,50;
+1995-01;4,50;
+1995-02;4,50;
+1995-03;4,00;Bemerkung
+1995-04;4,00;
+1995-05;4,00;
+1995-06;4,00;
+1995-07;4,00;
+1995-08;3,50;Bemerkung
+1995-09;3,50;
+1995-10;3,50;
+1995-11;3,50;
+1995-12;3,00;Bemerkung
+1996-01;3,00;
+1996-02;3,00;
+1996-03;3,00;
+1996-04;2,50;Bemerkung
+1996-05;2,50;
+1996-06;2,50;
+1996-07;2,50;
+1996-08;2,50;
+1996-09;2,50;
+1996-10;2,50;
+1996-11;2,50;
+1996-12;2,50;
+1997-01;2,50;
+1997-02;2,50;
+1997-03;2,50;
+1997-04;2,50;
+1997-05;2,50;
+1997-06;2,50;
+1997-07;2,50;
+1997-08;2,50;
+1997-09;2,50;
+1997-10;2,50;
+1997-11;2,50;
+1997-12;2,50;
+1998-01;2,50;
+1998-02;2,50;
+1998-03;2,50;
+1998-04;2,50;
+1998-05;2,50;
+1998-06;2,50;
+1998-07;2,50;
+1998-08;2,50;
+1998-09;2,50;
+1998-10;2,50;
+1998-11;2,50;
+1998-12;2,50;
+"";Bemerkung zu 1948-07: Ab 1. Juli 5,00 %;
+"";Bemerkung zu 1949-05: Ab 27. Mai 4,50 %;
+"";Bemerkung zu 1949-07: Ab 14. Juli 4,00 %;
+"";Bemerkung zu 1950-10: Ab 27. Okt. 6,00 %;
+"";Bemerkung zu 1952-05: Ab 29. Mai 5,00 %;
+"";Bemerkung zu 1952-08: Ab 21. Aug. 4,50 %;
+"";Bemerkung zu 1953-01: Ab 8. Jan. 4,00 %;
+"";Bemerkung zu 1953-06: Ab 11. Juni 3,50 %;
+"";Bemerkung zu 1954-05: Ab 20. Mai 3,00 %;
+"";Bemerkung zu 1955-08: Ab 4. Aug. 3,50 %;
+"";Bemerkung zu 1956-03: Ab 8. März 4,50 %;
+"";Bemerkung zu 1956-05: Ab 19. Mai 5,50 %;
+"";Bemerkung zu 1956-09: Ab 6. Sept. 5,00 %;
+"";Bemerkung zu 1957-01: Ab 11. Jan. 4,50 %;
+"";Bemerkung zu 1957-09: Ab 19. Sept. 4,00 %;
+"";Bemerkung zu 1958-01: Ab 17. Jan. 3,50 %;
+"";Bemerkung zu 1958-06: Ab 27. Juni 3,00 %;
+"";Bemerkung zu 1959-01: Ab 10. Jan. 2,75 %;
+"";Bemerkung zu 1959-09: Ab 4. Sept. 3,00 %;
+"";Bemerkung zu 1959-10: Ab 23. Okt. 4,00 %;
+"";Bemerkung zu 1960-06: Ab 3. Juni 5,00 %;
+"";Bemerkung zu 1960-11: Ab 11. Nov. 4,00 %;
+"";Bemerkung zu 1961-01: Ab 20. Jan. 3,50 %;
+"";Bemerkung zu 1961-05: Ab 5. Mai 3,00 %;
+"";Bemerkung zu 1965-01: Ab 22. Jan. 3,50 %;
+"";Bemerkung zu 1965-08: Ab 13. Aug. 4,00 %;
+"";Bemerkung zu 1966-05: Ab 27. Mai  5,00 %;
+"";Bemerkung zu 1967-01: Ab 6. Jan. 4,50 %;
+"";Bemerkung zu 1967-02: Ab 17. Febr. 4,00 %;
+"";Bemerkung zu 1967-04: Ab 14. April 3,50 %;
+"";Bemerkung zu 1967-05: Ab 12. Mai 3,00 %;
+"";Bemerkung zu 1969-04: Ab 18. April 4,00 % (Beschluss des Zentralbankrats vom 17. April 1969);
+"";Bemerkung zu 1969-06: Ab 20. Juni 5,00 % (Beschluss des Zentralbankrats vom 19. Juni 1969);
+"";Bemerkung zu 1969-09: Ab 11. Sept. 6,00 % (Beschluss des Zentralbankrats vom 11. Sept. 1969);
+"";Bemerkung zu 1970-03: Ab 9. März 7,50 % (Beschluss des Zentralbankrats vom 6. März 1970);
+"";Bemerkung zu 1970-07: Ab 16. Juli 7,00 % (Beschluss des Zentralbankrats vom 15. Juli 1970);
+"";Bemerkung zu 1970-11: Ab 18. Nov. 6,50 % (Beschluss des Zentralbankrats vom 17. Nov. 1970);
+"";Bemerkung zu 1970-12: Ab 3. Dez. 6,00 % (Beschluss des Zentralbankrats vom 2. Dez. 1970);
+"";Bemerkung zu 1971-04: Ab 1. April 5,00 % (Beschluss des Zentralbankrats vom 31. März 1971);
+"";Bemerkung zu 1971-10: Ab 14. Okt. 4,50 % (Beschluss des Zentralbankrats vom 13. Okt. 1971);
+"";Bemerkung zu 1971-12: Ab 23. Dez. 4,00 % (Beschluss des Zentralbankrats vom 22. Dez. 1971);
+"";Bemerkung zu 1972-02: Ab 25. Febr. 3,00 % (Beschluss des Zentralbankrats vom 24. Febr. 1972);
+"";Bemerkung zu 1972-10: Ab 9. Okt. 3,50 % (Beschluss des Zentralbankrats vom 6. Okt. 1972);
+"";Bemerkung zu 1972-11: Ab 3. Nov. 4,00 % (Beschluss des Zentralbankrats vom 2. Nov. 1972);
+"";Bemerkung zu 1972-12: Ab 1. Dez. 4,50 % (Beschluss des Zentralbankrats vom 30. Nov. 1972);
+"";Bemerkung zu 1973-01: Ab 12. Jan. 5,00 % (Beschluss des Zentralbankrats vom 11. Jan. 1973);
+"";Bemerkung zu 1973-05: Ab 4. Mai 6,00 % (Beschluss des Zentralbankrats vom 3. Mai 1973);
+"";Bemerkung zu 1973-06: Ab 1. Juni 7,00 % (Beschluss des Zentralbankrats vom 30. Mai 1973);
+"";Bemerkung zu 1974-10: Ab 25. Okt. 6,50 % (Beschluss des Zentralbankrats vom 24. Okt. 1974);
+"";Bemerkung zu 1974-12: Ab 20. Dez. 6,00 % (Beschluss des Zentralbankrats vom 19. Dez. 1974);
+"";Bemerkung zu 1975-02: Ab 7. Febr. 5,50 % (Beschluss des Zentralbankrats vom 6. Febr. 1975);
+"";Bemerkung zu 1975-03: Ab 7. März 5,00 % (Beschluss des Zentralbankrats vom 6. März 1975);
+"";Bemerkung zu 1975-05: Ab 23. Mai 4,50 % (Bechluss des Zentralbankrats vom 22. Mai 1975);
+"";Bemerkung zu 1975-08: Ab 15. Aug. 4,00 % (Beschluss des Zentralbankrats vom 14. Aug. 1975);
+"";Bemerkung zu 1975-09: Ab 12. Sept. 3,50 % (Beschluss des Zentralbankrats vom 11. Sept. 1975);
+"";Bemerkung zu 1977-12: Ab 16. Dez. 3,00 % (Beschluss des Zentralbankrats vom 15. Dez. 1977);
+"";Bemerkung zu 1979-03: Ab 30. März 4,00 % (Beschluss des Zentralbankrats vom 29. März 1979);
+"";Bemerkung zu 1979-07: Ab 13. Juli 5,00 % (Beschluss des Zentralbankrats vom 12. Juli 1979);
+"";Bemerkung zu 1979-11: Ab 1. Nov. 6,00 % (Beschluss des Zentralbankrats vom 31. Okt. 1979);
+"";Bemerkung zu 1980-02: Ab 29. Febr. 7,00 % (Beschluss des Zentralbankrats vom 28. Febr. 1980);
+"";Bemerkung zu 1980-05: Ab 2. Mai 7,50 % (Beschluss des Zentralbankrats vom 30. April 1980);
+"";Bemerkung zu 1982-08: Ab 27. Aug. 7,00 % (Beschluss des Zentralbankrats vom 26. Aug. 1982);
+"";Bemerkung zu 1982-10: Ab 22. Okt. 6,00 % (Beschluss des Zentralbankrats vom 21. Okt. 1982);
+"";Bemerkung zu 1982-12: Ab 3. Dez. 5,00 % (Beschluss des Zentralbankrats vom 2. Dez. 1982);
+"";Bemerkung zu 1983-03: Ab 18. März 4,00 % (Beschluss des Zentralbankrats vom 17. März 1983);
+"";Bemerkung zu 1984-06: Ab 29. Juni 4,50 % (Beschluss des Zentralbankrats vom 28. Juni 1984);
+"";Bemerkung zu 1985-08: Ab 16. Aug. 4,00 % (Beschluss des Zentralbankrats vom 15. Aug. 1985);
+"";Bemerkung zu 1986-03: Ab 7. März  3,50 % (Beschluss des Zentralbankrats vom 6. März 1986);
+"";Bemerkung zu 1987-01: Ab 23. Jan. 3,00 % (Beschluss des Zentralbankrats vom 22. Jan. 1987);
+"";Bemerkung zu 1987-12: Ab 4. Dez. 2,50 % (Beschluss des Zentralbankrats vom 3. Dez. 1987);
+"";Bemerkung zu 1988-07: Ab 1. Juli 3,00 % (Beschluss des Zentralbankrats vom 30. Juni 1988);
+"";Bemerkung zu 1988-08: Ab 26. Aug. 3,50 % (Beschluss des Zentralbankrats vom 25. Aug. 1988);
+"";Bemerkung zu 1989-01: Ab 20. Jan. 4,00 % (Beschluss des Zentralbankrats vom 19. Jan. 1989);
+"";Bemerkung zu 1989-04: Ab 21. April 4,50 % (Beschluss des Zentralbankrats vom 20. April 1989);
+"";Bemerkung zu 1989-06: Ab 30. Juni 5,00 % (Beschluss des Zentralbankrats vom 29. Juni 1989);
+"";Bemerkung zu 1989-10: Ab 6. Okt. 6,00 % (Beschluss des Zentralbankrats vom 5. Okt. 1989);
+"";Bemerkung zu 1991-02: Ab 1. Febr. 6,50 % (Beschluss des Zentralbankrats vom 31. Jan. 1991);
+"";Bemerkung zu 1991-08: Ab 16. Aug. 7,50 % (Beschluss des Zentralbankrats vom 15. Aug. 1991);
+"";Bemerkung zu 1991-12: Ab 20. Dez. 8,00 % (Beschluss des Zentralbankrats vom 19. Dez. 1991);
+"";Bemerkung zu 1992-07: Ab 17. Juli 8,75 % (Beschluss des Zentralbankrats vom 16. Juli 1992);
+"";Bemerkung zu 1992-09: Ab 15. Sept. 8,25 % (Beschluss des Zentralbankrats vom 14. Sept. 1992);
+"";Bemerkung zu 1993-02: Ab 5. Febr. 8,00 % (Beschluss des Zentralbankrats vom 4. Febr. 1993);
+"";Bemerkung zu 1993-03: Ab 19. März 7,50 % (Beschluss des Zentralbankrats vom 18. März 1993);
+"";Bemerkung zu 1993-04: Ab 23. April 7,25 % (Beschluss des Zentralbankrats vom 22. April 1993);
+"";Bemerkung zu 1993-07: Ab 2. Juli 6,75 % (Beschluss des Zentralbankrats vom 1. Juli 1993);
+"";Bemerkung zu 1993-09: Ab 10. Sept. 6,25 % (Beschluss des Zentralbankrats vom 9. Sept. 1993);
+"";Bemerkung zu 1993-10: Ab 22. Okt. 5,75 % (Beschluss des Zentralbankrats vom 21. Okt. 1993);
+"";Bemerkung zu 1994-02: Ab 18. Febr. 5,25 % (Beschluss des Zentralbankrats vom 17. Febr. 1994);
+"";Bemerkung zu 1994-04: Ab 15. April 5,00 % (Beschluss des Zentralbankrats vom 14. April 1994);
+"";Bemerkung zu 1994-05: Ab 13. Mai  4,50 % (Beschluss des Zentralbankrats vom 11. Mai 1994);
+"";Bemerkung zu 1995-03: Ab 31. März 4,00 % (Beschluss des Zentralbankrats vom 30. März 1995);
+"";Bemerkung zu 1995-08: Ab 25. Aug. 3,50 % (Beschluss des Zentralbankrats vom 24. Aug. 1995);
+"";Bemerkung zu 1995-12: Ab 15. Dez. 3,00 % (Beschluss des Zentralbankrats vom 14. Dez. 1995);
+"";Bemerkung zu 1996-04: Ab 19. April 1996 2,50 % (Beschluss des Zentralbankrats vom 18. April 1996). Gültig bis 31. Dez. 1998.;

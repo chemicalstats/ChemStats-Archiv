@@ -1,0 +1,334 @@
+﻿"";BBIN1.M.DE.BBK.BBKBAS2.EUR.ME;BBIN1.M.DE.BBK.BBKBAS2.EUR.ME_FLAGS
+"";Basiszinssatz gemäß BGB / Stand am Monatsende / SU0115;
+Dezimalstellen;2;
+Dimension;Eins;
+Einheit;% p.a.;
+Format der Zeitangabe;P1M;
+Grafikposition;E;
+Kategorie;GKZR;
+Kommentar;Der Basiszinssatz des Bürgerlichen Gesetzbuchs (§ 247 BGB) tritt mit Wirkung vom 1. Januar 2002 an die Stelle des Basiszinssatzes nach dem DÜG (Zeitreihe BBIN1.M.DE.BBK.BBKBAS1.EUR.ME), soweit dieser als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach dem EGBGB vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet wird. Er beträgt 3,62 % und verändert sich zum 1. Januar und 1. Juli eines jeden Jahres (erstmals zum 1. Januar 2002) um die Prozentpunkte, um welche die Bezugsgröße (jüngste Hauptrefinanzierungsoperation der EZB, marginaler Satz) seit der letzten Veränderung des Basiszinssatzes gestiegen oder gefallen ist. Gemäß Versicherungskapitalanlagen-Bewertungsgesetz (VersKapAG) Artikel 4 § 1 werden das DÜG und die Basiszinssatz-Bezugsgrößen-Verordnung aufgehoben. Nach Artikel 4 § 2 VersKapAG tritt ab 4. April 2002 an die Stelle des Diskontsatzes und des Basiszinssatzes gemäß DÜG der Basiszinssatz gemäß § 247 BGB. Somit verliert nun der Basiszinssatz gemäß DÜG ab 4. April 2002 endgültig seine Bedeutung für ab diesem Termin entstehende Forderungen. Insofern haben Inhaber von Forderungen, für die nach dem 1. Januar 2002 noch der DÜG-Basiszinssatz galt, mit dem Inkrafttreten des VersKapAG am 4. April 2002 ihre Zinsberechnung unmittelbar anzupassen.;
+Stand vom;30.12.2024 16:45:39 Uhr;
+2002-01;2,57;Bemerkung
+2002-02;2,57;
+2002-03;2,57;
+2002-04;2,57;
+2002-05;2,57;
+2002-06;2,57;
+2002-07;2,47;Bemerkung
+2002-08;2,47;
+2002-09;2,47;
+2002-10;2,47;
+2002-11;2,47;
+2002-12;2,47;
+2003-01;1,97;Bemerkung
+2003-02;1,97;
+2003-03;1,97;
+2003-04;1,97;
+2003-05;1,97;
+2003-06;1,97;
+2003-07;1,22;Bemerkung
+2003-08;1,22;
+2003-09;1,22;
+2003-10;1,22;
+2003-11;1,22;
+2003-12;1,22;
+2004-01;1,14;Bemerkung
+2004-02;1,14;
+2004-03;1,14;
+2004-04;1,14;
+2004-05;1,14;
+2004-06;1,14;
+2004-07;1,13;Bemerkung
+2004-08;1,13;
+2004-09;1,13;
+2004-10;1,13;
+2004-11;1,13;
+2004-12;1,13;
+2005-01;1,21;Bemerkung
+2005-02;1,21;
+2005-03;1,21;
+2005-04;1,21;
+2005-05;1,21;
+2005-06;1,21;
+2005-07;1,17;Bemerkung
+2005-08;1,17;
+2005-09;1,17;
+2005-10;1,17;
+2005-11;1,17;
+2005-12;1,17;
+2006-01;1,37;Bemerkung
+2006-02;1,37;
+2006-03;1,37;
+2006-04;1,37;
+2006-05;1,37;
+2006-06;1,37;
+2006-07;1,95;Bemerkung
+2006-08;1,95;
+2006-09;1,95;
+2006-10;1,95;
+2006-11;1,95;
+2006-12;1,95;
+2007-01;2,70;Bemerkung
+2007-02;2,70;
+2007-03;2,70;
+2007-04;2,70;
+2007-05;2,70;
+2007-06;2,70;
+2007-07;3,19;Bemerkung
+2007-08;3,19;
+2007-09;3,19;
+2007-10;3,19;
+2007-11;3,19;
+2007-12;3,19;
+2008-01;3,32;Bemerkung
+2008-02;3,32;
+2008-03;3,32;
+2008-04;3,32;
+2008-05;3,32;
+2008-06;3,32;
+2008-07;3,19;Bemerkung
+2008-08;3,19;
+2008-09;3,19;
+2008-10;3,19;
+2008-11;3,19;
+2008-12;3,19;
+2009-01;1,62;Bemerkung
+2009-02;1,62;
+2009-03;1,62;
+2009-04;1,62;
+2009-05;1,62;
+2009-06;1,62;
+2009-07;0,12;Bemerkung
+2009-08;0,12;
+2009-09;0,12;
+2009-10;0,12;
+2009-11;0,12;
+2009-12;0,12;
+2010-01;0,12;Bemerkung
+2010-02;0,12;
+2010-03;0,12;
+2010-04;0,12;
+2010-05;0,12;
+2010-06;0,12;
+2010-07;0,12;Bemerkung
+2010-08;0,12;
+2010-09;0,12;
+2010-10;0,12;
+2010-11;0,12;
+2010-12;0,12;
+2011-01;0,12;Bemerkung
+2011-02;0,12;
+2011-03;0,12;
+2011-04;0,12;
+2011-05;0,12;
+2011-06;0,12;
+2011-07;0,37;Bemerkung
+2011-08;0,37;
+2011-09;0,37;
+2011-10;0,37;
+2011-11;0,37;
+2011-12;0,37;
+2012-01;0,12;Bemerkung
+2012-02;0,12;
+2012-03;0,12;
+2012-04;0,12;
+2012-05;0,12;
+2012-06;0,12;
+2012-07;0,12;Bemerkung
+2012-08;0,12;
+2012-09;0,12;
+2012-10;0,12;
+2012-11;0,12;
+2012-12;0,12;
+2013-01;-0,13;Bemerkung
+2013-02;-0,13;
+2013-03;-0,13;
+2013-04;-0,13;
+2013-05;-0,13;
+2013-06;-0,13;
+2013-07;-0,38;Bemerkung
+2013-08;-0,38;
+2013-09;-0,38;
+2013-10;-0,38;
+2013-11;-0,38;
+2013-12;-0,38;
+2014-01;-0,63;Bemerkung
+2014-02;-0,63;
+2014-03;-0,63;
+2014-04;-0,63;
+2014-05;-0,63;
+2014-06;-0,63;
+2014-07;-0,73;Bemerkung
+2014-08;-0,73;
+2014-09;-0,73;
+2014-10;-0,73;
+2014-11;-0,73;
+2014-12;-0,73;
+2015-01;-0,83;Bemerkung
+2015-02;-0,83;
+2015-03;-0,83;
+2015-04;-0,83;
+2015-05;-0,83;
+2015-06;-0,83;
+2015-07;-0,83;Bemerkung
+2015-08;-0,83;
+2015-09;-0,83;
+2015-10;-0,83;
+2015-11;-0,83;
+2015-12;-0,83;
+2016-01;-0,83;Bemerkung
+2016-02;-0,83;
+2016-03;-0,83;
+2016-04;-0,83;
+2016-05;-0,83;
+2016-06;-0,83;
+2016-07;-0,88;Bemerkung
+2016-08;-0,88;
+2016-09;-0,88;
+2016-10;-0,88;
+2016-11;-0,88;
+2016-12;-0,88;
+2017-01;-0,88;Bemerkung
+2017-02;-0,88;
+2017-03;-0,88;
+2017-04;-0,88;
+2017-05;-0,88;
+2017-06;-0,88;
+2017-07;-0,88;Bemerkung
+2017-08;-0,88;
+2017-09;-0,88;
+2017-10;-0,88;
+2017-11;-0,88;
+2017-12;-0,88;
+2018-01;-0,88;Bemerkung
+2018-02;-0,88;
+2018-03;-0,88;
+2018-04;-0,88;
+2018-05;-0,88;
+2018-06;-0,88;
+2018-07;-0,88;Bemerkung
+2018-08;-0,88;
+2018-09;-0,88;
+2018-10;-0,88;
+2018-11;-0,88;
+2018-12;-0,88;
+2019-01;-0,88;Bemerkung
+2019-02;-0,88;
+2019-03;-0,88;
+2019-04;-0,88;
+2019-05;-0,88;
+2019-06;-0,88;
+2019-07;-0,88;Bemerkung
+2019-08;-0,88;
+2019-09;-0,88;
+2019-10;-0,88;
+2019-11;-0,88;
+2019-12;-0,88;
+2020-01;-0,88;Bemerkung
+2020-02;-0,88;
+2020-03;-0,88;
+2020-04;-0,88;
+2020-05;-0,88;
+2020-06;-0,88;
+2020-07;-0,88;Bemerkung
+2020-08;-0,88;
+2020-09;-0,88;
+2020-10;-0,88;
+2020-11;-0,88;
+2020-12;-0,88;
+2021-01;-0,88;Bemerkung
+2021-02;-0,88;
+2021-03;-0,88;
+2021-04;-0,88;
+2021-05;-0,88;
+2021-06;-0,88;
+2021-07;-0,88;Bemerkung
+2021-08;-0,88;
+2021-09;-0,88;
+2021-10;-0,88;
+2021-11;-0,88;
+2021-12;-0,88;
+2022-01;-0,88;Bemerkung
+2022-02;-0,88;
+2022-03;-0,88;
+2022-04;-0,88;
+2022-05;-0,88;
+2022-06;-0,88;
+2022-07;-0,88;Bemerkung
+2022-08;-0,88;
+2022-09;-0,88;
+2022-10;-0,88;
+2022-11;-0,88;
+2022-12;-0,88;
+2023-01;1,62;Bemerkung
+2023-02;1,62;
+2023-03;1,62;
+2023-04;1,62;
+2023-05;1,62;
+2023-06;1,62;
+2023-07;3,12;Bemerkung
+2023-08;3,12;
+2023-09;3,12;
+2023-10;3,12;
+2023-11;3,12;
+2023-12;3,12;
+2024-01;3,62;Bemerkung
+2024-02;3,62;
+2024-03;3,62;
+2024-04;3,62;
+2024-05;3,62;
+2024-06;3,62;
+2024-07;3,37;Bemerkung
+2024-08;3,37;
+2024-09;3,37;
+2024-10;3,37;
+2024-11;3,37;
+2024-12;3,37;
+2025-01;2,27;Bemerkung
+"";Bemerkung zu 2002-01: Ab 1. Jan. 2,57 %;
+"";Bemerkung zu 2002-07: Ab 1. Juli 2,47 %;
+"";Bemerkung zu 2003-01: Ab 1. Jan. 1,97 %;
+"";Bemerkung zu 2003-07: Ab 1. Juli 1,22 %;
+"";Bemerkung zu 2004-01: Ab 1. Jan. 1,14 %;
+"";Bemerkung zu 2004-07: Ab 1. Juli 1,13 %;
+"";Bemerkung zu 2005-01: Ab 1. Jan. 1,21 %;
+"";Bemerkung zu 2005-07: Ab 1. Juli 1,17 %;
+"";Bemerkung zu 2006-01: Ab 1. Jan. 1,37 %;
+"";Bemerkung zu 2006-07: Ab 1. Juli 1,95 %;
+"";Bemerkung zu 2007-01: Ab 1. Jan. 2,70 %;
+"";Bemerkung zu 2007-07: Ab 1. Juli 3,19 %;
+"";Bemerkung zu 2008-01: Ab 1. Jan. 3,32 %;
+"";Bemerkung zu 2008-07: Ab 1. Juli 3,19 %;
+"";Bemerkung zu 2009-01: Ab 1. Jan. 1,62 %;
+"";Bemerkung zu 2009-07: Ab 1. Juli 0,12 %;
+"";Bemerkung zu 2010-01: Ab 1. Jan. unverändert 0,12 %;
+"";Bemerkung zu 2010-07: Ab 1. Juli unverändert 0,12 %;
+"";Bemerkung zu 2011-01: Ab 1. Jan. unverändert 0,12 %;
+"";Bemerkung zu 2011-07: Ab 1. Juli 0,37 %;
+"";Bemerkung zu 2012-01: Ab 1. Jan. 0,12 %;
+"";Bemerkung zu 2012-07: Ab 1. Juli unverändert 0,12 %;
+"";Bemerkung zu 2013-01: Ab 1. Jan. -0,13 %;
+"";Bemerkung zu 2013-07: Ab 1. Juli -0,38 %;
+"";Bemerkung zu 2014-01: Ab 1. Jan. -0,63 %;
+"";Bemerkung zu 2014-07: Ab 1. Juli -0,73 %;
+"";Bemerkung zu 2015-01: Ab 1. Jan. -0,83 %;
+"";Bemerkung zu 2015-07: Ab 1. Juli unverändert -0,83 %;
+"";Bemerkung zu 2016-01: Ab 1. Jan. unverändert -0,83 %;
+"";Bemerkung zu 2016-07: Ab 1. Juli -0,88 %;
+"";Bemerkung zu 2017-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2017-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2018-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2018-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2019-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2019-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2020-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2020-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2021-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2021-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2022-01: Ab 1. Jan. unverändert -0,88%;
+"";Bemerkung zu 2022-07: Ab 1. Juli unverändert -0,88%;
+"";Bemerkung zu 2023-01: Ab 1. Jan. 1,62%;
+"";Bemerkung zu 2023-07: Ab 1. Juli 3,12%;
+"";Bemerkung zu 2024-01: Ab 1. Jan. 3,62%;
+"";Bemerkung zu 2024-07: Ab 1 Juli 3,37%;
+"";Bemerkung zu 2025-01: Ab 1. Jan. 2,27%;

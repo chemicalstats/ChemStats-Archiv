@@ -1,0 +1,56 @@
+﻿"";BBIN1.M.DE.BBK.BBKBAS1.EUR.ME;BBIN1.M.DE.BBK.BBKBAS1.EUR.ME_FLAGS
+"";Basiszinssatz gemäß Diskontsatz-Überleitungs-Gesetz (DÜG) / Stand am Monatsende / SU0114;
+Dezimalstellen;2;
+Dimension;Eins;
+Einheit;% p.a.;
+Format der Zeitangabe;P1M;
+Grafikposition;E;
+Kategorie;GKZR;
+Kommentar;Er ersetzt gemäß DÜG i.V. mit der Basiszinssatz-Bezugsgrößen-Verordnung ab 1. Januar 1999 den Diskontsatz, soweit dieser in Verträgen und Vorschriften als Bezugsgröße für Zinsen und andere Leistungen verwendet wird. Dieser Basiszinssatz ist der am 31. Dezember 1998 geltende Diskontsatz der Deutschen Bundesbank. Er verändert sich mit Beginn des 1. Januar, 1. Mai und 1. September eines jeden Jahres, erstmals mit Beginn des 1. Mai 1999, und zwar dann, wenn sich der Zinssatz der EZB für längerfristige Refinanzierungsgeschäfte (marginaler LRG-Satz) um mindestens 0,5 Prozentpunkte verändert hat. Soweit der Basiszinssatz gemäß DÜG als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach dem Einführungsgesetz zum BGB (EGBGB) vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet wird, tritt mit Wirkung vom 1. Januar 2002 an dessen Stelle der Basiszinssatz gemäß § 247 BGB (s.a. Zeitreihe BBIN1.M.DE.BBK.BBKBAS2.EUR.ME). Gemäß Versicherungskapitalanlagen-Bewertungsgesetz (VersKapAG) Artikel 4 § 1 werden das DÜG und die Basiszinssatz-Bezugsgrößen-Verordnung aufgehoben. Nach Artikel 4 § 2 VersKapAG tritt ab 4. April 2002 an die Stelle des Diskontsatzes und des Basiszinssatzes gemäß DÜG der Basiszinssatz gemäß § 247 BGB. Somit verliert nun der Basiszinssatz gemäß DÜG ab 4. April 2002 endgültig seine Bedeutung für ab diesem Termin entstehende Forderungen. Insofern haben Inhaber von Forderungen, für die nach dem 1. Januar 2002 noch der DÜG-Basiszinssatz galt, mit dem Inkrafttreten des VersKapAG am 4. April 2002 ihre Zinsberechnung unmittelbar anzupassen.;
+Stand vom;11.09.2024 11:40:20 Uhr;
+1999-01;2,50;Bemerkung
+1999-02;2,50;
+1999-03;2,50;
+1999-04;2,50;
+1999-05;1,95;Bemerkung
+1999-06;1,95;
+1999-07;1,95;
+1999-08;1,95;
+1999-09;1,95;
+1999-10;1,95;
+1999-11;1,95;
+1999-12;1,95;
+2000-01;2,68;Bemerkung
+2000-02;2,68;
+2000-03;2,68;
+2000-04;2,68;
+2000-05;3,42;Bemerkung
+2000-06;3,42;
+2000-07;3,42;
+2000-08;3,42;
+2000-09;4,26;Bemerkung
+2000-10;4,26;
+2000-11;4,26;
+2000-12;4,26;
+2001-01;4,26;
+2001-02;4,26;
+2001-03;4,26;
+2001-04;4,26;
+2001-05;4,26;
+2001-06;4,26;
+2001-07;4,26;
+2001-08;4,26;
+2001-09;3,62;Bemerkung
+2001-10;3,62;
+2001-11;3,62;
+2001-12;3,62;
+2002-01;2,71;Bemerkung
+2002-02;2,71;
+2002-03;2,71;
+"";Bemerkung zu 1999-01: Ab 1. Jan. 2,50 %;
+"";Bemerkung zu 1999-05: Ab 1. Mai 1,95 %;
+"";Bemerkung zu 2000-01: Ab 1. Jan. 2,68 %;
+"";Bemerkung zu 2000-05: Ab 1. Mai 3,42 %;
+"";Bemerkung zu 2000-09: Ab 1. Sept. 4,26 %;
+"";Bemerkung zu 2001-09: Ab 1. Sept. 3,62 %;
+"";Bemerkung zu 2002-01: Ab 1. Jan. bis 3. April 2,71 %;
