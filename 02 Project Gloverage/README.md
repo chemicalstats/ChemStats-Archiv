@@ -1,6 +1,6 @@
-# Vectis Mundi
+# ChemStats Archiv: Eine kleine Reise in gehebelte Welten - Vectis Mundi
 
-Ein Repository für Daten, Skripte, Analysen und Ergebnisse aus einigen meiner privaten Forschungsprojekte zu Forecasting, Backcasting und Anlagestrategien für Long und Short Leverage ETFs auf beliebte Aktienmarktindizes. Es ist ein Repository für meine Reddit-Beiträge in der Reihe "Vectis Mundi".
+Ein Repository für Daten, Skripte, Analysen und Ergebnisse aus einigen meiner privaten Forschungsprojekte zu Forecasting, Backcasting und Anlagestrategien für Long und Short Leverage ETFs auf beliebte Aktienmarktindizes. Es ist ein Repository für meine Reddit-Beiträge in der Reihe "ChemStats Archiv: Eine kleine Reise in gehebelte Welten - Vectis Mundi".
 
 Bitte beachten Sie, dass dieses Projekt unter [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] lizenziert und ein kommerzieller Gebrauch jeglicher Art ausgeschlossen ist.
 
