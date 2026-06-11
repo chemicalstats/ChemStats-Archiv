@@ -37,7 +37,7 @@ search_metrics <- function(search_data, search_grid){
 }
 
 #---> Definition des Analysehorizonts:
-start_date <- "1988-01-01"
+start_date <- "1987-12-31"
 stopp_date <- "2026-05-30"
 
 #---> Initialisierung Index-Zeitreihen:
@@ -391,7 +391,7 @@ leverage_for_mrm5 <- function(data, window = 1260, N = 1, step_days = 21, ter = 
 }
 
 unleveraged_input <- list(
-  read.csv("./Snippet All-Country World.csv") %>%
+  read.csv("./All-Country World Data.csv") %>%
     mutate(date = as.Date(date)),
   read.xlsx("./01 Source Data/FRED Effective Fedral Funds Rate RIFSPFFNB.xlsx", sheet = 2) %>%
     rename(date = observation_date, effr = RIFSPFFNB) %>%
