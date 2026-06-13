@@ -1,7 +1,7 @@
 ########################################################################################################################
 # Vorbereitung des Systems
 ########################################################################################################################
-packages <- c("tidyverse", "tidyquant", "imputeTS","openxlsx", "modelr", "plotly", "readxl", "mgcv", "httr", "jsonlite", "purrr")
+packages <- c("tidyverse", "imputeTS", "openxlsx", "modelr", "plotly", "mgcv", "httr", "jsonlite", "htmlwidgets")
 invisible(lapply(packages, require, character.only = TRUE)); rm(packages)
 if(.Platform$OS.type == "windows"){Sys.setlocale("LC_ALL", "en_US.UTF-8")}
 
@@ -37,9 +37,60 @@ search_metrics <- function(search_data, search_grid){
 }
 
 #---> Definition des Analysehorizonts:
-start_date <- "1987-12-31"
+start_date <- "1987-12-29"
 stopp_date <- "2026-05-30"
 
+
+########################################################################################################################
+# Backcast des MSCI All-Country World Price Return Index
+########################################################################################################################
+#---> 1. Tägliche Price Return Indices MSCI World und MSCI Emerging Markets:
+world_em <- left_join(
+  read.csv("https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/02%20Project%20Gloverage/03%20Results%20Data/01%20Equity%20Indicies/MSCI%20World%20USD.csv") %>%
+    mutate(date = as.Date(date), world_price = world_us_price),
+  read.csv("https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/02%20Project%20Gloverage/03%20Results%20Data/01%20Equity%20Indicies/MSCI%20Emerging%20USD.csv") %>%
+    mutate(date = as.Date(date), em_price = emerging_us_price),
+  by = "date") %>%
+  filter(date >= "1987-12-31")
+
+#---> 2. Monatliche ACWI-Stände für die Gewichtsschätzung (MSCI-Endpunkt, STRD USD):
+monthly_acwi <- read.csv("https://raw.githubusercontent.com/NandayDev/MSCI-Historical-Data/main/indexes_gross/MSCI%20ACWI.csv") %>%
+  rename(ym = Date, acwi_price = Price) %>%
+  filter(ym <= "2001-11")
+
+#---> 3. Implizites EM-Gewicht via Varying-Coefficient GAM:
+weights_monthly <- world_em %>%
+  group_by(ym = format(date, "%Y-%m")) %>%
+  slice_tail(n = 1) %>%
+  ungroup() %>%
+  inner_join(monthly_acwi, by = "ym") %>%
+  mutate(
+    t = as.numeric(date - first(date)) / 365.25,
+    d_acwi = (acwi_price/lag(acwi_price) - 1) - (world_price/lag(world_price) - 1),
+    d_em = (em_price/lag(em_price) - 1) - (world_price/lag(world_price) - 1))
+
+w_gam <- gam(d_acwi ~ 0 + s(t, by = d_em, k = 12), data = weights_monthly, method = "REML")
+
+#---> 4. Täglicher Blend-Return und Backward Chaining per ACWI-Anker:
+acwi_anchor <- scraping_index(code = "892400", type = "STRD", currency = "USD", freq = "DAILY",
+                              start = "19970101", stopp = "19970110") %>%
+  mutate(date = as.Date(as.character(calc_date), format = "%Y%m%d")) %>%
+  slice_min(date)
+
+acwi_blend <- world_em %>%
+  filter(date <= acwi_anchor$date) %>%
+  mutate(
+    t = as.numeric(date - first(weights_monthly$date)) / 365.25,
+    w = pmax(predict(w_gam, newdata = data.frame(t = t, d_em = 1)), 0),
+    ret = (1 - w) * (world_price/lag(world_price)) + w * (em_price/lag(em_price)),
+    ret = replace_na(ret, 1),
+    blend_price = acwi_anchor$level_eod / rev(cumprod(rev(c(ret[-1], 1))))) %>%
+  select(date, blend_price)
+
+
+########################################################################################################################
+# Initialisierung Index-Zeitreihen
+########################################################################################################################
 #---> Initialisierung Index-Zeitreihen:
 msci_data <- list(
   #---> 1. Konstruktion des Kalendar-Zeitindex und Berechnung der Kalendartage pro Jahr:
@@ -70,17 +121,16 @@ msci_data <- list(
     rename(date = observation_date, sofr = SOFR) %>%
     mutate(date = as.Date(date, origin = "1899-12-30")),
   #---> 4. Integration des MSCI All-Country World in den USD-Varianten Price, Gross Total und Net Total Return:
-  left_join(
-    read.csv("./01 Source Data/Onvista MSCI All-Country World Price Index USD.csv", sep = ";") %>%
-      select(date = Datum, price_external = Schluss) %>%
-      mutate(
-        date  = as.Date(date, format = "%d.%m.%Y"),
-        price_external = as.numeric(gsub(",", ".", price_external))),
+  list(
+   data.frame(date = seq.Date(from = as.Date(start_date),
+                             to = as.Date(paste0(year(Sys.Date()), "-12-31")),
+                             by = "days")),
+    acwi_blend %>% select(date, price_external = blend_price),
     scraping_index(code = "892400", type = "STRD", currency = "USD", freq = "DAILY",
                   start = gsub("-", "", "19970101"), stopp = gsub("-", "", stopp_date)) %>%
       mutate(date = as.Date(as.character(calc_date), format = "%Y%m%d"), price_internal = level_eod) %>%
-      select(date, price_internal),
-    by = "date") %>%
+      select(date, price_internal)) %>%
+   Reduce(function(x, y) left_join(x, y, by = "date"), .) %>%
     mutate(real_price = ifelse(!is.na(price_internal), price_internal, price_external)) %>%
     select(date, real_price),
   scraping_index(code = "892400", type = "GRTR", currency = "USD", freq = "DAILY",
@@ -102,7 +152,7 @@ msci_data <- list(
   filter(date <= stopp_date) %>% 
   #---> 6. Berechnung der Indexrenditen und Erweiterung der Simulationen:
   mutate(
-    real_price = round(na_interpolation(real_price, "stine"), digits = 5),
+    real_price =  ifelse(date  >= "1997-01-01", na_interpolation(real_price, "stine"), real_price),
     real_price_return = real_price/lag(real_price),
     real_gdtr_l1 = ifelse(date  >= "2000-12-29", na_interpolation(real_gdtr_l1, "stine"), NA),
     real_gdtr_l1_return = real_gdtr_l1/lag(real_gdtr_l1),
@@ -301,7 +351,8 @@ mrm_rolling <- function(data, window = 1260, N = 252, step_days = 21){
 
 #---> 4. Anwendung auf Simulationsdaten
 msci_input <- read.csv("./All-Country World Data.csv") %>%
-  filter(!wday(date, week_start = 1) %in% c(6, 7)) %>%
+  mutate(date = as.Date(date)) %>%
+  filter(!weekdays(date) %in% c("Saturday", "Sunday")) %>%
   select(date, price = letf_acwi_usd_sim) %>%
   filter(!is.na(price))
 
@@ -400,8 +451,10 @@ unleveraged_input <- list(
     rename(date = observation_date, sofr = SOFR) %>%
     mutate(date = as.Date(date, origin = "1899-12-30"))) %>%
   Reduce(function(x, y) left_join(x, y, by = "date"), .) %>%
-  mutate(us_rate = na_interpolation(ifelse(date <= "2021-07-31", effr, sofr), "stine")) %>% 
-  filter(!wday(date, week_start = 1) %in% c(6, 7)) %>%
+  mutate(
+    us_rate = na_interpolation(ifelse(date <= "2021-07-31", effr, sofr), "stine"),
+    date = as.Date(date)) %>%
+  filter(!weekdays(date) %in% c("Saturday", "Sunday")) %>%
   select(date, price = sim_ndtr_l1, us_rate) %>%
   filter(!is.na(price))
 
