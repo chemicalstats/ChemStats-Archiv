@@ -44,7 +44,7 @@ bei ähnlichen Renditen als Einmalanlagen auf.
 - Warnung: Es folgt ein Beitrag, der viele Formeln, lange Textpassagen und viele Grafiken enthält!
 
 
-![*Strahlende Bullen, düstere Bären*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/00 Logo.jpeg)
+![*Strahlende Bullen, düstere Bären*](05 Post Graphics/00 Logo.jpeg)
 
 **Beiträge der Reihe:** [**Teil I**](https://redd.it/1ite1u2) **–** [**Teil II**](https://redd.it/1iyx0rw) **–** [**Teil III**](https://redd.it/1jvu9gi/) **– Teil IV –** [**Teil V**](https://redd.it/1tw1in2)
 
@@ -95,7 +95,7 @@ bietet. Zur Vorbereitung der nächsten Abschnitte zeigt die folgende
 Grafik, wie sich eine Auswahl gleitender Zentralitätsmaße im Vergleich 
 zu einem hypothetischen Basiswert verhalten:
  
-![*Hypothetischer Indexverlauf und gleitende Zentralitätsmaße*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04a Part 04.jpeg)
+![*Hypothetischer Indexverlauf und gleitende Zentralitätsmaße*](05 Post Graphics/04a Part 04.jpeg)
 
 Alles klar, bevor wir uns jedoch in technische Details und 
 statistische Analysen stürzen, ist es nötig, eine Sache zu verstehen: 
@@ -176,7 +176,7 @@ effizientere Alternative für volatile Märkte ins Spiel gebracht wird.
 Darüber hinaus hoffe ich zu zeigen, wie sich exotischere Varianten durch
  wenige Formeln mit Simple Moving Average vergleichen lassen:
  
-![*Formales Grundmodell gleitender Durchschnitte*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04b Part 04.jpeg)
+![*Formales Grundmodell gleitender Durchschnitte*](05 Post Graphics/04b Part 04.jpeg)
 
 Mathematisch ist ein Großteil der funktionalen Unterschiede beider
  Archetypen direkt aus der Grundformel gleitender Durchschnitte, konkret
@@ -236,7 +236,7 @@ Schwankung durch ihre Parameter geblockt wird. Formal sind beide
 Varianten im Frequenzraum durch folgende Übertragungsfunktionen und 
 Grenzfrequenzen gegeben:
  
-![*Formales Frequenzmodell gleitender Durchschnitte*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04c Part 04.jpeg)
+![*Formales Frequenzmodell gleitender Durchschnitte*](05 Post Graphics/04c Part 04.jpeg)
 
 Im Hinblick auf den einfachen gleitenden Durchschnitt liefert eine
  diskrete Fourier-Transformation eine Grenzfrequenz von 1/(2N), was sich
@@ -305,7 +305,7 @@ ein, um langfristige Gleichgewichte von Marktpreisen und fundamentalen
 Faktoren zu schätzen und gleichzeitig kurzfristige Schwankungen durch 
 Schocks oder Innovationen abzubilden:
  
-![*Protomodell über die Rolle gleitender Durchschnitte bei der Separierung von Marktregimen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04d Part 04.jpeg)
+![*Protomodell über die Rolle gleitender Durchschnitte bei der Separierung von Marktregimen*](05 Post Graphics/04d Part 04.jpeg)
 
 Vermutlich kriegen jetzt Makro-Ökonomen eine Krise, weil ich aus 
 Gründen der Verständlichkeit stark vereinfache, aber grob gesagt, gibt 
@@ -467,9 +467,9 @@ es wird keine Aussage über Wahrscheinlichkeiten von Risiken und Renditen
 Superiorität eines Einzelparameters oder Parameterbereichs! Alles klar?!
  Sehr gut, sehen wir uns mal an, was der Simulator ausgespuckt hat...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x2 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04e Part 04.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x2 (Sparplananlage)*](05 Post Graphics/04e Part 04.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x1 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04f Part 04.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x1 (Sparplananlage)*](05 Post Graphics/04f Part 04.jpeg)
 
 Aus den Grafiken ergibt sich, dass es ein breites Spektrum von 270
  bis 420 Tagen für Sparpläne auf den Heiligen Amumbo gegeben hätte, in 
@@ -483,9 +483,9 @@ Grundmusters auf ein stabiles Plateau von 400 bis 450 Tagen (Optimum:
 Bereich von 310 bis 350 Tagen zu finden gewesen, während der kleine 
 Bruder im Spektrum von 360 bis 430 Tagen anzusiedeln gewesen wäre.
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Short x2 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04g Part 04.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Short x2 (Sparplananlage)*](05 Post Graphics/04g Part 04.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Short x1 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04h Part 04.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Short x1 (Sparplananlage)*](05 Post Graphics/04h Part 04.jpeg)
 
 Sofern wir uns daran erinnern, dass der Dunkle Amumbo und sein 
 kleiner Bruder auf der gleichen Basis wie der ungehebelte Long-ETF 
@@ -538,7 +538,7 @@ oder Social Trading-Ansätze wie Wikifolios aus Gründen der
 Übersichtlichkeit ausgeblendet, weshalb ich euch hier die vollständigen 
 Tabellen der Risiko- und Renditemetriken nachliefere:
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Einmal- und Sparplanlagen)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04i Part 04.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Einmal- und Sparplanlagen)*](05 Post Graphics/04i Part 04.jpeg)
 
 Insgesamt bestätigen die Ergebnisse die Rolle gleitender 
 Durchschnitte als Instrumente zur Separation von Volatilitäts- und 
@@ -560,13 +560,13 @@ plausiblen Vergangenheit geschlagen hätte. Hierfür stützen wir uns bei
 der Auswahl von SMA-Werten auf die Mediane von Rendite- und 
 Risikometriken, sodass wir *konditionale Optima* betrachten – es dürfte klar sein, dass sich daraus Abweichungen zu den *Absolutoptima perfekter Modelle* ergeben müssen. Zur Verdeutlichung habe ich eine Evaluation der SMA-Werte für jedes Long- und Short-Produkt aufgesetzt:
  
-![*Evaluation von Parametern für SMA-Strategien für Long x2 (Sparplan)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04j Part 04.jpeg)
+![*Evaluation von Parametern für SMA-Strategien für Long x2 (Sparplan)*](05 Post Graphics/04j Part 04.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien für Long x1 (Sparplan)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04k Part 04.jpeg)
+![*Evaluation von Parametern für SMA-Strategien für Long x1 (Sparplan)*](05 Post Graphics/04k Part 04.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien für Short x2 (Sparplan)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04l Part 04.jpeg)
+![*Evaluation von Parametern für SMA-Strategien für Short x2 (Sparplan)*](05 Post Graphics/04l Part 04.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien für Short x1 (Sparplan)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/04m Part 04.jpeg)
+![*Evaluation von Parametern für SMA-Strategien für Short x1 (Sparplan)*](05 Post Graphics/04m Part 04.jpeg)
 
 Alter, was geht jetzt? Im Grunde ist es relativ simpel: In den 
 Grafiken wird gezeigt, welche SMA-Werte im Verlauf der Zeit zu den 

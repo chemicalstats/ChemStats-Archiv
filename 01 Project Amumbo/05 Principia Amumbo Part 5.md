@@ -51,7 +51,7 @@ SMA-Strategien als Vola-Filter.
 - Warnung: Es folgt ein Beitrag, der viele Tabellen, lange Textpassagen und Grafiken enthält!
 
  
-![*Strahlende Bullen, düstere Bären*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/00 Logo.jpeg)
+![*Strahlende Bullen, düstere Bären*](05 Post Graphics/00 Logo.jpeg)
 
 **Beiträge der Reihe:** [**Teil I**](https://redd.it/1ite1u2) **–** [**Teil II**](https://redd.it/1iyx0rw) **–** [**Teil III**](https://redd.it/1jvu9gi) **–** [**Teil IV**](https://redd.it/1q4vda5) **– Teil V**
 
@@ -78,9 +78,9 @@ EMA-Strategie in ähnlichen Bereichen liegen, es jedoch kleinere
 Differenzen bei Lage, Streuung und Extremen geben könnte. Schauen wir 
 mal, ob die Hypothese hält...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien Long x2 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05a Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien Long x2 (Sparplananlage)*](05 Post Graphics/05a Part 05.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien Short x2 (Sparplananlage)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05b Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien Short x2 (Sparplananlage)*](05 Post Graphics/05b Part 05.jpeg)
 
 Wie sich zeigt, ist das Spektrum robuster Werte für beide Moving 
 Average-Spielarten auf der Long- und der Short-Seite im gleichen Bereich
@@ -109,7 +109,7 @@ Drawdowns: EMA 31.2% bis 72.4% vs. SMA 32.1% bis 57.9%), da ihre Effekte
  die latenten Eigenschaften auf beiden Seiten des Vergleichs nur 
 abmildern, jedoch nicht aufheben.
  
-![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien (Einmal- und Sparplanlagen)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05c Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien (Einmal- und Sparplanlagen)*](05 Post Graphics/05c Part 05.jpeg)
 
 Selbst bei Analyse der Extreme auf der Long-Seite sticht ins Auge,
  dass EMA-Strategien über alle Horizonte schlechter als ihre 
@@ -130,7 +130,7 @@ Short-Term Rate (€STR) abwickelt, dafür jedoch den Schwankungen des
 EUR/USD-Wechselkurses ausgesetzt ist – oder in formalen Termen 
 ausgedrückt:
  
-![*Wechselkurse im Leverage-Modell Long & Short Avellaneda & Zhang (2009)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05d Part 05.jpeg)
+![*Wechselkurse im Leverage-Modell Long & Short Avellaneda & Zhang (2009)*](05 Post Graphics/05d Part 05.jpeg)
 
 Ähm, und was heißt das jetzt? Nunja, es bedeutet, dass die 
 Renditen des Heiligen Amumbos von zwei Kräften geprägt werden, die 
@@ -159,9 +159,9 @@ Amumbo über den USD-Index in einer SMA-Strategie spiele? Schauen wir uns
 Platzgründen ins Repository ausgelagert) an, was wir auf diese Weise 
 erhalten hätten, bevor wir die Details und Ebenen der Frage angehen...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x2 (Sparplananlage, USD-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05e Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien Long x2 (Sparplananlage, USD-Index)*](05 Post Graphics/05e Part 05.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien für Long x2 (Sparplan, USD-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05f Part 05.jpeg)
+![*Evaluation von Parametern für SMA-Strategien für Long x2 (Sparplan, USD-Index)*](05 Post Graphics/05f Part 05.jpeg)
 
 Naja, es wird relativ deutlich, welchen Effekt eine Bereinigung 
 des SMA-Signals von Wechselkursvolatilitäten hat – weniger Schwankung, 
@@ -172,7 +172,7 @@ sich einzig aus dem Hebeleffekt auf den Wechselkurs. Und es ist wenig
 verwunderlich, dass sich dieser Effekt in den Ergebnissen für alle 
 Variationen niederschlägt...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien (Einmal- und Sparplanlagen, USD-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05g Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für EMA-Strategien (Einmal- und Sparplanlagen, USD-Index)*](05 Post Graphics/05g Part 05.jpeg)
 
 Sofern wir eine SMA-Strategie auf Basis des USD-Signals genutzt 
 hätten, wären sowohl für Einmal- als auch bei Sparplananlagen im 
@@ -235,7 +235,7 @@ Long-Positionen strukturell aufgreifen. In der folgenden Tabelle wird
 eine Übersicht über die formalen Merkmale der gleitenden Ansätze 
 gegeben:
  
-![*Formale Merkmale gleitender Zentralitätsmetriken*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05h Part 05.jpeg)
+![*Formale Merkmale gleitender Zentralitätsmetriken*](05 Post Graphics/05h Part 05.jpeg)
 
 Analog zu den gleitenden Durchschnitten erfolgte die Analyse 
 beider Ansätze über Fensterlängen von 10 bis 600 Kalendartagen (Notiz: 
@@ -248,13 +248,13 @@ Risiko (Maximum Drawdown) durch einen Blau-Gelb-Farbgradienten
 visualisiert, wobei dunkle Blautöne für niedrige und helle Gelbtöne für 
 hohe Werte stehen:
  
-![*Empirische Rendite-Verteilung von Moving Decile-Strateigen Long x2 (Sparplananlage, EUR-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05i Part 05.jpeg)
+![*Empirische Rendite-Verteilung von Moving Decile-Strateigen Long x2 (Sparplananlage, EUR-Index)*](05 Post Graphics/05i Part 05.jpeg)
  
-![*Empirische Risiko-Verteilung von Moving Decile-Strateigen Long x2 (Sparplananlage, EUR-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05j Part 05.jpeg)
+![*Empirische Risiko-Verteilung von Moving Decile-Strateigen Long x2 (Sparplananlage, EUR-Index)*](05 Post Graphics/05j Part 05.jpeg)
  
-![*Empirische Risiko-Verteilung von Moving Normal-Strateigen Long x2 (Sparplananlage, EUR-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05k Part 05.jpeg)
+![*Empirische Risiko-Verteilung von Moving Normal-Strateigen Long x2 (Sparplananlage, EUR-Index)*](05 Post Graphics/05k Part 05.jpeg)
  
-![*Empirische Risiko-Verteilung von Moving Normal-Strateigen Long x2 (Sparplananlage, EUR-Index)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05l Part 05.jpeg)
+![*Empirische Risiko-Verteilung von Moving Normal-Strateigen Long x2 (Sparplananlage, EUR-Index)*](05 Post Graphics/05l Part 05.jpeg)
 
 Aha, hübsch, aber was uns das? Konkret ergaben sich für Moving 
 Deciles 380 Tage auf dem 1. Dezil und 210 Tage auf dem 2. Dezil als 
@@ -266,7 +266,7 @@ Metriken in den Verteilungen deutlich breiter gestreut und in den
 Extremen schwächer, sodass SMA-Ansätze über die volle Bandbreite der 
 Horizonte überlegen gewesen wären.
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Alternativstrategien (Einmal- und Sparplanlagen ohne Steuern)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05m Part 05.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Alternativstrategien (Einmal- und Sparplanlagen ohne Steuern)*](05 Post Graphics/05m Part 05.jpeg)
 
 Im Grunde liegt der Mehrwert für uns nicht im rohen Vergleich der 
 Kennzahlen, sondern in der trivialen Erkenntnis, dass der Effekt 
@@ -409,7 +409,7 @@ es war; sie erhalten Eigenschaften, zerstören andere, weshalb sie unter
 keinen Umständen als Prognose gelesen werden dürfen! Schauen wir mal, 
 was rausgekommen ist...
  
-![*Pseudo-P-Werte für Rendite-, Risiko- und Aggregat-Metriken*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05n Part 05.jpeg)
+![*Pseudo-P-Werte für Rendite-, Risiko- und Aggregat-Metriken*](05 Post Graphics/05n Part 05.jpeg)
 
 **Ergebnis 1 – Historische Drawdowns für Buy-and-Hold sind Extremereignisse**
 
@@ -543,7 +543,7 @@ zweiten Schicht nötig ist – aufgrund des nicht-monotonen Verlaufs der
 GARCH-Hierarchie hat sich die frühere Annahme als unrealistisch 
 erwiesen. Schauen wir mal, was zu reparieren oder zu präzisieren ist...
  
-![*Erweiterung des Protomodells über die Rolle gleitender Durchschnitte bei der Separierung von Marktregimen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/05o Part 05.jpeg)
+![*Erweiterung des Protomodells über die Rolle gleitender Durchschnitte bei der Separierung von Marktregimen*](05 Post Graphics/05o Part 05.jpeg)
 
 Konkret gibt es die Notwendigkeit, die zweite Schicht des 
 Protomodells aufzuspalten, da sich über alle Stufen der GARCH-Hierarchie
