@@ -46,7 +46,7 @@ Ableitung von Vorabpauschalen.
 - Warnung: Es folgt ein Beitrag, der viele Formeln, lange Textpassagen und Grafiken enthält!
 
  
-![*Strahlende Bullen, düstere Bären*](05 Post Graphics/00 Logo.jpeg)
+![Strahlende Bullen, düstere Bären](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/00%20Logo.jpeg)
 
 **Beiträge der Reihe:** [**Teil I**](https://redd.it/1ite1u2) **– Teil II –** [**Teil III**](https://redd.it/1jvu9gi) **–** [**Teil IV**](https://redd.it/1q4vda5) **–** [**Teil V**](https://redd.it/1tw1in2)
 
@@ -70,7 +70,7 @@ ETFs anstelle von Referenzindizes sowie eine Komponente zur Abbildung
 von Leihkosten verwendet werden, um gehebelte Long- und Short-ETFs zu 
 berechnen. In unserer Schreibweise sieht das Modell so aus:
  
-![*Leverage-Modell Avellaneda & Zhang (2009)*](05 Post Graphics/02a Part 02.jpeg)
+![Leverage-Modell Avellaneda & Zhang (2009)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02a%20Part%2002.jpeg)
 
 Vermutlich ist es mal wieder nicht direkt ersichtlich, aber 
 letztlich sind dieses Modell und unser Vorgehen funktional äquivalent, 
@@ -149,7 +149,7 @@ der Long- und Short-ETFs aus, eine rückwirkende Verrechnung des
 täglichen Anteils der Gesamtkostenquote und der Tagesrendite von Indizes
  zu realisieren:
  
-![*Produkt-Index-Simulationsgleichung*](05 Post Graphics/02b Part 02.jpeg)
+![Produkt-Index-Simulationsgleichung](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02b%20Part%2002.jpeg)
 
 Hierbei steht R für die Rendite des hypothetischen ETFs (Subskript
  f) und Referenzindex (Subskript i) am Tag t, r für die 
@@ -177,7 +177,7 @@ wir unsere Strategien in den nächsten Beiträgen lediglich in Euro
 analysieren werden – sofern ihr eigene Analysen in anderen Währungen 
 angehen wollt, beachtet bitte, dass ihr Umrechnungen benötigt. Voilà...
  
-![*Hypothetischer Verlauf des Heiligen Amumbos und seiner Schatten*](05 Post Graphics/02c Part 02.jpeg)
+![Hypothetischer Verlauf des Heiligen Amumbos und seiner Schatten](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02c%20Part%2002.jpeg)
 
 Puh, wir haben es geschafft! Wir haben vier Long- und Short-ETFs 
 für die Zeit von 01-01-1975 bis 31-12-2024 simuliert und haben die 
@@ -269,7 +269,7 @@ wurden oder sich die Umgebung ändert, wenn die Zinsrate verändert wird –
  dieses Phänomen meine ich, wenn ich von struktureller Integrität 
 spreche. Oder in einem Bild ausgedrückt:
  
-![*ChemStats Schwebetuch*](05 Post Graphics/02d Part 02.jpeg)
+![ChemStats Schwebetuch](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02d%20Part%2002.jpeg)
 
 Nun ist bei Zinsstrukturflächen zu beachten, dass es uns nicht 
 möglich ist die Vergangenheit zu verändern, sodass Zinssätze früherer 
@@ -307,7 +307,7 @@ eine laufende Kalendarmatrix ein und beachten, dass sich die Monatsdaten
 liegt uns eine Zinsstrukturfläche in täglicher Auflösung vor, jedoch 
 liegt ein gutes Stück Arbeit vor uns, um diese Lücken zu schließen:
  
-![*Unvollständige Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024*](05 Post Graphics/02e Part 02.jpeg)
+![Unvollständige Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02e%20Part%2002.jpeg)
 
 Ähm, ja, leicht wird's nicht, oder? Wie ihr seht, liegt uns eine 
 wilde Mischung fehlender Werte vor, denn einerseits sind längere 
@@ -340,7 +340,7 @@ Siegel (1987) davon aus, dass sich die latente Struktur von Zinssätzen
 als Differentialgleichungen zweiter Ordnung beschreiben lässt, was in 
 zeit-diskreter Schreibweise die folgende Gleichung ergibt:
  
-![*Gleichung Nelson & Siegel (1987)*](05 Post Graphics/02f Part 02.jpeg)
+![Gleichung Nelson & Siegel (1987)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02f%20Part%2002.jpeg)
 
 Hierbei steht rₜ für den Zinssatz eines Bundeswertpapiers an einem
  beliebigen Zeitpunkt t, die Parameter β₀ bis β₂ für das Niveau, die 
@@ -357,7 +357,7 @@ Svensson-Modell, da es sich schlicht besser für komplexere, dynamische
 Zinsstrukturen eignet. In zeit-diskreter Schreibweise ist das Modell 
 über diese Gleichung definiert:
  
-![*Gleichung Svensson (1994)*](05 Post Graphics/02g Part 02.jpeg)
+![Gleichung Svensson (1994)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02g%20Part%2002.jpeg)
 
 Analog zur vorherigen Gleichung sorgen τ₀ und τ₁ für die 
 Konvergenz der Zinssätze in Richtung des langjährigen Durchschnitts, 
@@ -373,22 +373,22 @@ einsetzbar, denn es beruht auf dem Einsatz bikubischer Polynome, wobei
 jedes Polynom von den Werten einer Funktion z(x,y) und partiellen 
 Ableitungen an den Eckpunkten des Rechtecks bestimmt wird:
  
-![*Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)*](05 Post Graphics/02h Part 02.jpeg)
+![Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02h%20Part%2002.jpeg)
 
 Sofern wir uns für einen beliebigen Punkt i,j auf der 
 unvollständigen Zinsstrukturfläche interessieren, sind die Werte der 
 partiellen Ableitung an diesem Punkt durch diese partiellen Ableitungen 
 erster und zweiter Ordnung definiert:
  
-![*Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)*](05 Post Graphics/02i Part 02.jpeg)
+![Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02i%20Part%2002.jpeg)
 
 Die Gewichtungskoeffizienten ergeben sich durch:
  
-![*Gewichtungskoeffizienten (Akima 1974)*](05 Post Graphics/02j Part 02.jpeg)
+![Gewichtungskoeffizienten (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02j%20Part%2002.jpeg)
 
 In diesen Gewichtungskoeffizienten gelten die geteilten Differenzen erster und zweiter Ordnung:
  
-![*Geteilte Differenzen 1. und 2. Ordnung (Akima 1974)*](05 Post Graphics/02k Part 02.jpeg)
+![Geteilte Differenzen 1. und 2. Ordnung (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02k%20Part%2002.jpeg)
 
 Sobald wir diese Vorgaben an unseren Rechner übergeben, holen wir 
 uns erstmal einen Kaffee, Tee oder irgendwas Hochprozentiges, denn 
@@ -396,11 +396,11 @@ leider ist unsere Zinsstrukturfläche so löchrig, dass uns sehr lange
 Rechenzeiten bevorstehen. Allerdings lohnt es sich, wie ihr selbst sehen
  könnt:
  
-![*Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024*](05 Post Graphics/02l Part 02.jpeg)
+![Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02l%20Part%2002.jpeg)
 
 Oder eine andere Perspektive, falls ihr ein Herz für die dritte Dimension habt:
  
-![*Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024*](05 Post Graphics/02m Part 02.jpeg)
+![Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2024](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/01%20Project%20Amumbo/05%20Post%20Graphics/02m%20Part%2002.jpeg)
 
 Puh, wir haben es geschafft! Wir haben eine vollständige 
 Zinsstrukturfläche ab 30-09-1972 über alle Maturitäten, die wir uns mal 
