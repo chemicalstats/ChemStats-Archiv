@@ -53,7 +53,7 @@ der Drawdowns (Vergleich gehebeltes Buy-and-Hold: bis zu 40 pp;
 Ungehebeltes Buy-and-Hold: 7 bis 19 pp) in der robusten Zone um 255 
 Handelstage – guter Kompromiss aus Rendite und Risiko.
 
-[*Eine kleine Reise in gehebelte Welten](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/00%20Logo.jpeg)
+[Eine kleine Reise in gehebelte Welten](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/00%20Logo.jpeg)
 
 **Beiträge der Reihe: Teil I –** [**Teil II**](https://www.reddit.com/r/mauerstrassenwetten/comments/1o21g35/chemstats_archiv_eine_kleine_reise_in_gehebelte/)
 
