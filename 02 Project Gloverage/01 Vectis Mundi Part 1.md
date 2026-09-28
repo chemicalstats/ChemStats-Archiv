@@ -53,7 +53,7 @@ der Drawdowns (Vergleich gehebeltes Buy-and-Hold: bis zu 40 pp;
 Ungehebeltes Buy-and-Hold: 7 bis 19 pp) in der robusten Zone um 255 
 Handelstage – guter Kompromiss aus Rendite und Risiko.
 
-![*Eine kleine Reise in gehebelte Welten*](05 Post Graphics/00 Logo.jpeg)
+[*Eine kleine Reise in gehebelte Welten](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/00%20Logo.jpeg)
 
 **Beiträge der Reihe: Teil I –** [**Teil II**](https://www.reddit.com/r/mauerstrassenwetten/comments/1o21g35/chemstats_archiv_eine_kleine_reise_in_gehebelte/)
 
@@ -156,7 +156,7 @@ kontinuierlich ist, durch endlich linear additive Komposition
 kontinuierlicher Funktionen der Prädiktorvariablen ausgedrückt werden 
 kann:
 
-![*Gleichung Kolmogorov (1957)*](05 Post Graphics/01a Part 01.jpeg)
+![Gleichung Kolmogorov (1957)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01a%20Part%2001.jpeg)
 
 Leider gibt das Theorem lediglich an, dass es diese funktionale 
 Relation gibt, jedoch nicht, welche Methoden zu ihrer Konstruktion 
@@ -168,7 +168,7 @@ Prädiktors und dem Mittelwert der Verteilung f regelt, erfordern. Auf
 diese Weise ist das Modell in linearer Schreibweise auszudrücken und 
 letztlich durch Maximum-Likelihood-Ansätze schätzbar:
 
-![*Verallgemeinertes Additives Modell*](05 Post Graphics/01b Part 01.jpeg)
+![Verallgemeinertes Additives Modell](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01b%20Part%2001.jpeg)
 
 Wie angedeutet, nutzen wir die Tagesrenditen des MSCI 
 World-Preisindex in US-Dollar von 01-01-1999 bis 03-01-2025 als 
@@ -180,7 +180,7 @@ USD-Zeitreihen abzuleiten – welche Umrechnungskurse vor der Einführung
 des Euros relevant sind, wird in den folgenden Absätzen genauer 
 erläutert.
 
-![*Index-Varianten MSCI World in US-Dollar und Euro*](05 Post Graphics/01c Part 01.jpeg)
+![Index-Varianten MSCI World in US-Dollar und Euro](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01c%20Part%2001.jpeg)
 
 **Kleine Hebelkunde für Modellbastler**
 
@@ -192,7 +192,7 @@ gehebelte Long- und Short-Indizes aus der folgenden Formel, wobei die
 Short-Indizes lediglich aus Gründen der Vollständigkeit aufgeführt 
 werden:
  
-![*Long Leverage und Short Leverage*](05 Post Graphics/01d Part 01.jpeg)
+![Long Leverage und Short Leverage](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01d%20Part%2001.jpeg)
 
 Hierbei stehen K für den Hebelfaktor, Rₜ₋₁ für die Rendite des 
 Referenzindex, r für die Leih- und Verleihzinssätze, T für die Anzahl 
@@ -217,7 +217,7 @@ der Zinssätze nutzen. Insofern haben wir eine vollständige Zeitreihe des
 Verrechnung des täglichen Anteils der Gesamtkostenquote und der 
 Tagesrendite von Indizes zu realisieren:
 
-![*Produkt-Index-Simulationsgleichung*](05 Post Graphics/01e Part 01.jpeg)
+![Produkt-Index-Simulationsgleichung](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01e%20Part%2001.jpeg)
 
 Hierbei steht R für die Rendite des hypothetischen ETFs (Subskript
  f) und Referenzindex (Subskript i) am Tag t, r für die 
@@ -228,7 +228,7 @@ irrelevant ist, da es derzeit kein reales Produkt als Vergleichsreferenz
 Return, den ich in der folgenden Grafik im Vergleich zu anderen MSCI 
 World-Varianten darstelle:
 
-![*Vergleich ungehebelte und gehebelte Index-Varianten des MSCI World in US-Dollar und Euro*](05 Post Graphics/01f Part 01.jpeg)
+![Vergleich ungehebelte und gehebelte Index-Varianten des MSCI World in US-Dollar und Euro](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01f%20Part%2001.jpeg)
 
 Im letzten Schritt ist lediglich die Anwendung der Total Expense 
 Ratio auf Indexzeitreihen nötig, wobei wir für den Seligen Amumbo den 
@@ -280,7 +280,7 @@ eine laufende Kalendarmatrix ein und beachten, dass sich die Monatsdaten
 liegt uns eine Zinsstrukturfläche in täglicher Auflösung vor, jedoch 
 liegt ein gutes Stück Arbeit vor uns, um diese Lücken zu schließen:
 
-![*Unvollständige Zinsstrukturfläche Bundeswertpapiere 1972 bis 2025*](05 Post Graphics/01g Part 01.jpeg)
+![Unvollständige Zinsstrukturfläche Bundeswertpapiere 1972 bis 2025](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01g%20Part%2001.jpeg)
 
 Vor längerer Zeit habe ich mir eine kleine Strategie überlegt, die
  sich zunächst der Vervollständigung der Zinsstrukturkurve einzelner 
@@ -291,7 +291,7 @@ Modell von Nelson und Siegel (1987) sowie die Optimierung von Svensson
 Zinssätzen als Differenzialgleichungen zweiter Ordnung beschreiben 
 lässt, was in zeitdiskreter Schreibweise die folgende Gleichung ergibt:
 
-![*Gleichung Svensson (1994)*](05 Post Graphics/01h Part 01.jpeg)
+![Gleichung Svensson (1994)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01h%20Part%2001.jpeg)
 
 Hierbei steht rₜ für den Zinssatz eines Bundeswertpapiers an einem
  beliebigen Zeitpunkt t, die Parameter β₀ bis β₂ für das Niveau, die 
@@ -314,7 +314,7 @@ einsetzbar, denn es beruht auf dem Einsetzen bikubischer Polynome, wobei
  jedes Polynom von den Werten einer Funktion z(x,y) und partiellen 
 Ableitungen an den Eckpunkten des Rechtecks bestimmt wird:
 
-![*Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)*](05 Post Graphics/01i Part 01.jpeg)
+![Partielle Ableitungen 1. und 2. Ordnung (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01i%20Part%2001.jpeg)
 
 Sofern wir uns für einen beliebigen Punkt i,j auf der 
 unvollständigen Zinsstrukturfläche interessieren, dann sind die Werte 
@@ -323,7 +323,7 @@ Ableitungen erster und zweiter Ordnung definiert. In den
 Gewichtungskoeffizienten gelten die geteilten Differenzen erster und 
 zweiter Ordnung:
 
-![*Partielle Ableitungen, Gewichtungskoeffizienten und Geteilte Differenzen 1. und 2. Ordnung (Akima 1974)*](05 Post Graphics/01j Part 01.jpeg) 
+![Partielle Ableitungen, Gewichtungskoeffizienten und Geteilte Differenzen 1. und 2. Ordnung (Akima 1974)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01j%20Part%2001.jpeg) 
 
 Sobald wir diese Vorgaben an unseren Rechner übergeben, holen wir 
 uns erstmal einen Kaffe, Tee oder irgendwas Hochprozentiges, denn leider
@@ -331,7 +331,7 @@ uns erstmal einen Kaffe, Tee oder irgendwas Hochprozentiges, denn leider
 Rechenzeiten bevorstehen. Allerdings lohnt es sich, wie ihr selbst sehen
  könnt:
 
-![*Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2025*](05 Post Graphics/01k Part 01.jpeg) 
+![Interpolierte Zinsstrukturfläche Bundeswertpapiere 1972 bis 2025](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01k%20Part%2001.jpeg) 
 
 Puh, jetzt haben wir es endlich geschafft! Wir haben alle Materialien für eine plausible Simulation!
 
@@ -355,7 +355,7 @@ wird). Analog ist die Regelung des Rebalancings für multiple Assets
 aufgebaut, jedoch gibt es für diese Art der Simulation die Option, 
 Sparpläne für stetiges Rebalancing zu verwenden (Standard: Off).
 
-![*ChemStats Hebelküche*](05 Post Graphics/01l Part 01.jpeg)
+![ChemStats Hebelküche](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01l%20Part%2001.jpeg)
 
 Im Hinblick auf die Simulation des Handels gibt es Optionen zur 
 Regelung des Bruchstückhandels (Standard: On), der Abbildung von Splits 
@@ -414,7 +414,7 @@ Einordnung der Metriken habe ich ein Produkt ohne Hebel auf Grundlage
 des größten MSCI World-ETFs von iShares (WKN: A0RPWH; TER: 0.2% p.a.) 
 simuliert:
 
-![*Empirische Verteilung von Rendite- und Risikometriken für Buy-and-Hold-Strategien*](05 Post Graphics/01m Part 01.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Buy-and-Hold-Strategien](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01m%20Part%2001.jpeg)
 
 Im Hinblick auf die Rendite ist zunächst ein leichtes Absinken der
  Mediane beim Übergang von 10 Jahre (LS: 12.40% p.a.; DCA: 12.34% p.a.) 
@@ -466,7 +466,7 @@ Natürlich habe ich mich jetzt lediglich auf die Mediane und IQRs
 konzentriert, daher hier noch die vollständige Tabelle der Risiko- und 
 Renditemetriken:
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold)*](05 Post Graphics/01n Part 01.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01n%20Part%2001.jpeg)
 
 **Gleitende Wellenreiter – Vola Ante Portas**
 
@@ -511,9 +511,9 @@ so gut, es bleibt lediglich zu erwähnen, dass ihr bei der Umrechnung den
 Kalendertagen grob 207 Handelstagen entspricht. Alles klar, sehen wir 
 uns mal an, was der Simulator ausgespuckt hat...
 
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Einmalanlage)*](05 Post Graphics/01o Part 01.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Einmalanlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01o%20Part%2001.jpeg)
 
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Sparplananlage)*](05 Post Graphics/01p Part 01.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01p%20Part%2001.jpeg)
 
 Im Wesentlichen sind die Ergebnisse über das Spektrum von 
 SMA-Werten für Einmal- und Sparplananlagen relativ ähnlich, wobei sich 
@@ -544,9 +544,9 @@ lediglich ansehen, wie eine Strategie in der hypothetischen, jedoch
 plausiblen Vergangenheit abgeliefert hätte. Abgesehen davon handelt es 
 sich bei unseren SMA-Werten um *konditionales Optimum* – wir setzen bei der Auswahl ja bei Medianen von Rendite und Risiko an, was in der Regel eine Abweichung vom *Absolutoptimum* bedeutet. Zur Verdeutlichung habe ich mir erlaubt, eine Evaluation der SMA-Werte für Sparplananlagen aufzusetzen:
 
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI World (Einmalanlage)*](05 Post Graphics/01q Part 01.jpeg)
+![Evaluation von Parametern für SMA-Strategien auf den MSCI World (Einmalanlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01q%20Part%2001.jpeg)
 
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI World (Sparplananlage)*](05 Post Graphics/01r Part 01.jpeg) 
+![Evaluation von Parametern für SMA-Strategien auf den MSCI World (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01r%20Part%2001.jpeg) 
 
 Alter, was ist das? In den Grafiken wird gezeigt, welche SMA-Werte
  im Verlauf der Zeit zu den höchsten Renditen (linke Seite) oder den 
@@ -560,7 +560,7 @@ als das Spektrum der Rendite ist, und 3.) die Selektion über Mediane
 stabile Ergebnisse für beide Metriken geliefert hätte, jedoch nur in 
 Ausnahmen *Absolutoptima* darstellen. Aha, aber wie hätte sich eine SMA-Strategie nun geschlagen?
 
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Moving Average)*](05 Post Graphics/01s Part 01.jpeg) 
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Moving Average)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/01s%20Part%2001.jpeg) 
 
 Sagen wir es mal so: Ziemlich gut! Unter Berücksichtigung von 
 Steuern, Vorabpauschalen, Gebühren und Spreads liegen die Unterschiede 

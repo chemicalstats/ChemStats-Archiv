@@ -36,7 +36,7 @@ Seligen Amumbos – zumindest in der Einzelkritik.
 sie sind jedoch ideal für Momentum-Strategien, um regionale Exzesse 
 abzuschöpfen.
 
-![*Eine kleine Reise in gehebelte Welten*](05 Post Graphics/00 Logo.jpeg)
+![Eine kleine Reise in gehebelte Welten](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/00%20Logo.jpeg)
 
 **Beiträge der Reihe:** [**Teil I**](https://www.reddit.com/r/mauerstrassenwetten/comments/1n6je6h/chemstats_archiv_eine_kleine_reise_in_gehebelte/) **– Teil II**
 
@@ -104,7 +104,7 @@ weshalb wir den Constraint setzen, dass die Summe der täglichen Renditen
 (Aggregationskonsistenz). Glücklicherweise ist diese lineare Projektion 
 durch einen Lagrange-Multiplikator (Bertsekas 1989) lösbar:
 
-![*Constraint Quadratic Approach via Lagrange-Multiplikation*](05 Post Graphics/02a Part 02.jpeg)
+![Constraint Quadratic Approach via Lagrange-Multiplikation](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02a%20Part%2002.jpeg)
 
 Ausgehend von dieser Schätzung täglicher Renditen ist es möglich, 
 den Verlauf der Preisindizes jeder MSCI-Region abzuleiten, jedoch setzen
@@ -142,7 +142,7 @@ simulieren wir, dass es keine Tageswerte der MSCI-Regionen vor dem
 01-01-2011 gibt und wir diese jedoch nun so genau wie möglich 
 rekonstruieren wollen:
  
-![*Constraint Quadratic Approach Simulation*](05 Post Graphics/02b Part 02.jpeg)
+![Constraint Quadratic Approach Simulation](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02b%20Part%2002.jpeg)
 
 Im Anschluss an die Simulation der Preisindizes in US-Dollar ist 
 es möglich, alle Index-Varianten für die vier Regionen in US-Dollar und 
@@ -153,7 +153,7 @@ Ratios aus, die den Eigenschaften früherer Produkte entlehnt sind oder
 auf Schätzungen basieren (Nordamerika: 0.5% p.a.; Europa: 0.5% p.a.; 
 Pazifik: 0.7% p.a.; Emerging: 0.8% p.a.):
  
-![*Vergleich gehebelter Produkte auf das MSCI-Universum*](05 Post Graphics/02c Part 02.jpeg)
+![Vergleich gehebelter Produkte auf das MSCI-Universum](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02c%20Part%2002.jpeg)
 
 In der Regel gehen wir von Nettodividendenindizes in US-Dollar zur
  Konstruktion der gehebelten Produkte aus, jedoch habe ich den EUR-Index
@@ -194,7 +194,7 @@ halte den Rest der Welt kürzer, um alles in einem Beitrag behandeln zu
 können. Alles klar, sehen wir uns mal an, was der Simulator ausgespuckt 
 hat...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Buy-and-Hold-Strategien*](05 Post Graphics/02d Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Buy-and-Hold-Strategien](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02d%20Part%2002.jpeg)
 
 Im Wesentlichen zeigen die vier Regionen in den Boxplots (Spear 
 1952) dieselben Trends, die wir bereits im letzten Beitrag für 
@@ -266,9 +266,9 @@ gelegt, aber die Extreme aus Gründen der Übersichtlichkeit ausgeblendet,
  weshalb ich euch hier die vollständigen Tabellen der Risiko- und 
 Renditemetriken für Produkte auf USD- und EUR-Indizes nachliefere:
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold USD-Basis)*](05 Post Graphics/02e Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold USD-Basis)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02e%20Part%2002.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold EUR-Basis)*](05 Post Graphics/02f Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (Buy-and-Hold EUR-Basis)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02f%20Part%2002.jpeg)
 
 Was heißt das jetzt? Im Rahmen einer Buy-and-Hold-Strategie wäre 
 ein gehebelter MSCI World wohl die beste Wahl im Hinblick auf Risiko und
@@ -324,13 +324,13 @@ Renditen getätigt (Inferenz) und absolut keine Vorhersage (Prädiktion)
 über die Superiorität eines Einzelparameters oder Parameterbereichs! 
 Alles klar?! Sehr gut, weiter geht's...
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI North America (Sparplananlage)*](05 Post Graphics/02g Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI North America (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02g%20Part%2002.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Europe (Sparplananlage)*](05 Post Graphics/02h Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Europe (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02h%20Part%2002.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Pacific (Sparplananlage)*](05 Post Graphics/02i Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Pacific (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02i%20Part%2002.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Emerging (Sparplananlage)*](05 Post Graphics/02j Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für SMA-Strategien MSCI Emerging (Sparplananlage)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02j%20Part%2002.jpeg)
 
 Im Rahmen der regionalen Analyse zeigen sich deutliche 
 Unterschiede in Effizienz und Stabilität von SMA-Werten über die Zeit: 
@@ -379,13 +379,13 @@ lediglich ansehen, wie eine Strategie in der hypothetischen, jedoch
 plausiblen Vergangenheit abgeliefert hätte. Abgesehen davon handelt es 
 sich bei unserer Auswahl an SMA-Werten um *konditionale Optima* – wir setzen bei der Auswahl ja bei Medianen von Rendite und Risiko an, was in der Regel eine Abweichung von den *Absolutoptima* bedeutet. Zur Verdeutlichung habe ich mir erlaubt, eine Evaluation der SMA-Werte für jede Region aufzusetzen:
  
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI North America (Sparplan)*](05 Post Graphics/02k Part 02.jpeg)
+![Evaluation von Parametern für SMA-Strategien auf den MSCI North America (Sparplan)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02k%20Part%2002.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI Europe (Sparplan)*](05 Post Graphics/02l Part 02.jpeg)
+![Evaluation von Parametern für SMA-Strategien auf den MSCI Europe (Sparplan)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02l%20Part%2002.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI Pacific (Sparplan)*](05 Post Graphics/02m Part 02.jpeg)
+![Evaluation von Parametern für SMA-Strategien auf den MSCI Pacific (Sparplan)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02m%20Part%2002.jpeg)
  
-![*Evaluation von Parametern für SMA-Strategien auf den MSCI Emerging (Sparplan)*](05 Post Graphics/02n Part 02.jpeg)
+![Evaluation von Parametern für SMA-Strategien auf den MSCI Emerging (Sparplan)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02n%20Part%2002.jpeg)
 
 Alter, was geht jetzt? Im Grunde ist es relativ simpel: In den 
 Grafiken wird gezeigt, welche SMA-Werte im Verlauf der Zeit zu den 
@@ -454,9 +454,9 @@ Folge längerer Krisen war. Im Vergleich dazu sind der Pazifikraum (LS:
 48.5% bis 51.2%; DCA: 30.3% bis 50.7%) und die Schwellenländer (LS: 
 32.3% bis 51.9%; DCA: 25.7% bis 43.4%) erneut eine eigene Liga.
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (SMA USD-Basis)*](05 Post Graphics/02o Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (SMA USD-Basis)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02o%20Part%2002.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (SMA EUR-Basis)*](05 Post Graphics/02p Part 02.jpeg)
+![Empirische Verteilung von Rendite- und Risikometriken für Einmal- und Sparplanlagen (SMA EUR-Basis)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02p%20Part%2002.jpeg)
 
 Ähm, was sagt mir das jetzt? Im Wesentlichen zeigen die Ergebnisse, dass SMA-Strategien in der *Goldlöckchen-Zone*
  im Vergleich zum Klassiker (SMA 200 Handelstage) eine Steigerung der 
@@ -489,9 +489,9 @@ Nulllinie liegt, hätte das Asset für dieses Investitionsfenster eine
 höhere Rendite als die Referenz erzielt, während wir für das Risiko 
 (Maximum Drawdowns) ein Ergebnis unter der Nullinie anstreben:
  
-![*Relative Dynamiken der Rendite- und Risikometriken für Sparplanlagen (Buy-and-Hold; Gleitende Fenster)*](05 Post Graphics/02q Part 02.jpeg)
+![Relative Dynamiken der Rendite- und Risikometriken für Sparplanlagen (Buy-and-Hold; Gleitende Fenster)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02q%20Part%2002.jpeg)
  
-![*Relative Dynamiken der Rendite- und Risikometriken für Sparplanlagen (SMA; Gleitende Fenster)*](05 Post Graphics/02r Part 02.jpeg)
+![Relative Dynamiken der Rendite- und Risikometriken für Sparplanlagen (SMA; Gleitende Fenster)](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02r%20Part%2002.jpeg)
 
 Im Wesentlichen zeigen uns die Spaghetti-Plots, dass die 
 Stabilität von Investitionen mit der Länge der Anlagezeit gestiegen 
@@ -541,7 +541,7 @@ Linien) im Verhältnis zum Seligen Amumbo zeigt. Seien wir mal ehrlich zu
  uns, es ist doch relativ wahrscheinlich, dass wir in den 80er und 90er 
 Jahren im Heiligen Amumbo Pazifik-Style gesteckt hätten, oder?
  
-![*Eine Geschichte des Hebelns durch Raum und Zeit*](05 Post Graphics/02s Part 02.jpeg)
+![Eine Geschichte des Hebelns durch Raum und Zeit](https://github.com/chemicalstats/ChemStats-Archiv/blob/main/02%20Project%20Gloverage/05%20Post%20Graphics/02s%20Part%2002.jpeg)
 
 Puh, das war jetzt viel Input! Eigentlich wäre jetzt der Punkt, an
  dem wir uns den Aspekten der Analyse widmen würden, die ich aus 
