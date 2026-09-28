@@ -50,7 +50,7 @@ Textpassagen und viele Grafiken, aber keine WKNs enthält – letztere sind
 9049149; 1x Short: 9049049).
 
 
-![*Strahlende Bullen, düstere Bären*](05 Post Graphics/00 Logo.jpeg)
+![*Strahlende Bullen, düstere Bären*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/00 Logo.jpeg)
 
 **Beiträge der Reihe: Teil I –** [**Teil II**](https://redd.it/1iyx0rw) **–** [**Teil III**](https://redd.it/1jvu9gi) **–** [**Teil IV**](https://redd.it/1q4vda5) **–** [**Teil V**](https://redd.it/1tw1in2)
 
@@ -185,7 +185,7 @@ absolute Indexwerte stützen, spielen uns latente Annahmen der meisten
 nicht-linearen Ansätze in die Karten und wir haben Zugriff auf Modelle, 
 die robuste Schätzung und hohe Flexibilität vereinen.
  
-![*Bivariate Verteilung von Tagesrenditen der USD-Indizes*](05 Post Graphics/01a Part 01.jpeg)
+![*Bivariate Verteilung von Tagesrenditen der USD-Indizes*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01a Part 01.jpeg)
 
 Wie die bivariate Verteilung der Tagesrenditen zeigt, liegt eine 
 lineare Beziehung der beiden Indizes vor – wirklich nichts 
@@ -205,7 +205,7 @@ kontinuierlich ist, durch endlich linear-additive Komposition
 kontinuierlicher Funktionen der Prädiktorvariablen ausgedrückt werden 
 kann:
  
-![*Gleichung Kolmogorov (1957)*](05 Post Graphics/01b Part 01.jpeg)
+![*Gleichung Kolmogorov (1957)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01b Part 01.jpeg)
 
 Leider gibt das Theorem lediglich an, dass es diese funktionale 
 Relation gibt, jedoch nicht, welche Methoden zu ihrer Konstruktion 
@@ -215,7 +215,7 @@ Hierbei helfen uns die Arbeiten von Trevor Hastie und Robert Tibshirani
 schlicht davon ausgehen, dass die Funktion einem Bereich niedrigerer 
 Komplexität angehört:
  
-![*Gleichung Hastie & Tibshirani (1986)*](05 Post Graphics/01c Part 01.jpeg)
+![*Gleichung Hastie & Tibshirani (1986)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01c Part 01.jpeg)
 
 In der Praxis reicht nun eine Link-Funktion g, welche die 
 Beziehung des Prädiktors und dem Mittelwert der Verteilung f regelt, um 
@@ -223,7 +223,7 @@ das Modell in linearer Schreibweise auszudrücken, die Anzahl der
 Prädiktoren zu generalisieren und letztlich durch 
 Maximum-Likelihood-Ansätze schätzbar zu machen:
  
-![*Verallgemeinertes Additives Modell*](05 Post Graphics/01d Part 01.jpeg)
+![*Verallgemeinertes Additives Modell*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01d Part 01.jpeg)
 
 Vielleicht ist es nicht auf den ersten Blick ersichtlich, aber 
 diese Gruppe von Modellen enthält das lineare Modell als Spezialfall und
@@ -247,7 +247,7 @@ sich nochmal daran erinnert, dass die Dividendenindizes letztlich nur
 lineare Derivate des Preisindex sind, hätte uns ein anderes Muster 
 gewundert.
  
-![*Index-Varianten MSCI USA (USD)*](05 Post Graphics/01e Part 01.jpeg)
+![*Index-Varianten MSCI USA (USD)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01e Part 01.jpeg)
 
 Bevor wir uns jedoch den Index-Varianten in Euro widmen, möchte 
 ich ansprechen, dass ich durch diese spezielle Gruppe von Modellen die 
@@ -293,7 +293,7 @@ S&P 500-Preisindizes in Euro und US-Dollar grob dem Wechselkurs
 entspricht, aber es liegt relativ stabil um ca. 17.5% über den 
 EZB-Wechselkursen, wie sich in der folgenden Grafik ablesen lässt.
  
-![*Simulation Wechselkurse*](05 Post Graphics/01f Part 01.jpeg)
+![*Simulation Wechselkurse*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01f Part 01.jpeg)
 
 Wahrscheinlich kriegen Bankiers und Finanzler jetzt eine Krise, 
 aber in Ermangelung cleverer Ideen, einem Mangel an Zeit, um zusätzliche
@@ -304,13 +304,13 @@ für das Verhältnis der S&P 500-Währungsvarianten in unserem
 Standardmodell verwendet. Wie sich zeigt, ist unsere Brachialmethodik 
 relativ präzise und robust:
  
-![*Bivariate Verteilung von Tagesrenditen der EUR-Indizes*](05 Post Graphics/01g Part 01.jpeg)
+![*Bivariate Verteilung von Tagesrenditen der EUR-Indizes*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/5 Post Graphics/01g Part 01.jpeg)
 
 Auf diese Weise ließ sich der Umrechnungskurs für den S&P 500 
 Preisindex in Euro bis 01-01-1975 simulieren, sodass wir nun das gleiche
  Vorgehen wie bei den Index-Varianten in US-Dollar umsetzen können:
  
-![*Index-Varianten MSCI USA (EUR)*](05 Post Graphics/01h Part 01.jpeg)
+![*Index-Varianten MSCI USA (EUR)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01h Part 01.jpeg)
 
 Im Ergebnis liegen uns vollständige Sätze an Basis-Varianten des 
 MSCI USA in Euro und US-Dollar vor, die wir für die Simulation 
@@ -325,7 +325,7 @@ Indexanbietern finden lassen – manchmal in Kurzform, manchmal in
 Herleitungsform, aber stets äquivalent. So ergeben sich die 
 Tagesrenditen für gehebelte Long- und Short-Indizes aus:
  
-![*Long Leverage und Short Leverage*](05 Post Graphics/01i Part 01.jpeg)
+![*Long Leverage und Short Leverage*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01i Part 01.jpeg)
 
 Hierbei stehen K für den Hebelfaktor, Rₜ₋₁ für die Rendite des 
 Referenzindex, r für die Leih- und Verleihzinssätze, T für die Anzahl 
@@ -396,9 +396,9 @@ Berücksichtigung des jeweiligen Adjustierungsfaktors vom Zeitpunkt ihrer
  Erstauflage zurückzurechnen. Das Ergebnis seht ihr in den folgenden 
 Grafiken:
  
-![*Long- und Short-Spektrum des MSCI USA (USD)*](05 Post Graphics/01j Part 01.jpeg)
+![*Long- und Short-Spektrum des MSCI USA (USD)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01j Part 01.jpeg)
  
-![*Long- und Short-Spektrum des MSCI USA (EUR)*](05 Post Graphics/01k Part 01.jpeg)
+![*Long- und Short-Spektrum des MSCI USA (EUR)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/01k Part 01.jpeg)
 
 Puh, wir haben es geschafft! Eigentlich würde ich euch jetzt gerne
  erklären, wie wir gehebelte Long- und Short-ETFs aus diesen Zeitreihen 
