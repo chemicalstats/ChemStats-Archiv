@@ -39,7 +39,7 @@ Abhängigkeit von Investitionslängen, Anlagetypen, Steuern und Gebühren.
 - Warnung: Es folgt ein Beitrag, der viele Formeln, lange Textpassagen und Grafiken enthält!
 
  
-![*Strahlende Bullen, düstere Bären*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/00%20Logo.jpeg)
+![*Strahlende Bullen, düstere Bären*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/00 Logo.jpeg)
 
 **Beiträge der Reihe:** [**Teil I**](https://redd.it/1ite1u2) **–** [**Teil II**](https://redd.it/1iyx0rw) **– Teil III –** [**Teil IV**](https://redd.it/1q4vda5) **–** [**Teil V**](https://redd.it/1tw1in2)
 
@@ -202,7 +202,7 @@ leiden, gäbe es keinen Unterschied. Insofern fragen wir in dieser Phase,
  Trend- und Momentum-Strategien sind in dieser Hinsicht ein Sonderfall. 
 Ähm, klar, aber die beiden Analysen sind Nullhypothesentests, richtig!?
  
-![*Statistische Permutation zur Analyse der Überanpassung von Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03a%20Part%2003.jpeg)
+![*Statistische Permutation zur Analyse der Überanpassung von Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03a Part 03.jpeg)
 
 Völlig richtig, die Ergebnisse der beiden Testverfahren liefern 
 uns die Verteilung von Rendite- und Risikometriken unter Gültigkeit der 
@@ -286,7 +286,7 @@ Sparpläne für stetiges Rebalancing zu verwenden (Standard: Off) – sofern
 Rebalancing ein, jedoch war dies für den Großteil der Strategien bislang
  wenig bis gar nicht relevant.
  
-![*ChemStats Hebelküche*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03b%20Part%2003.jpeg)
+![*ChemStats Hebelküche*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03b Part 03.jpeg)
 
 Im Hinblick auf die Simulation des Handels gibt es Optionen zur 
 Regelung des Bruchstückhandels (Standard: On), der Abbildung von Splits 
@@ -356,7 +356,7 @@ gesteigert hätte. Ich hoffe, ihr seht es mir nach, aber das habe ich mir
 (Seegrün) und Crashes (Karminrot), deren Spuren im hypothetischen 
 Verlauf unserer Long- und Short-ETFs auf den MSCI USA sichtbar sind:
  
-![*Hypothetischer Verlauf des Heiligen Amumbos und seiner Schatten durch Rezessionen und Crashs*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03c%20Part%2003.jpeg)
+![*Hypothetischer Verlauf des Heiligen Amumbos und seiner Schatten durch Rezessionen und Crashs*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03c Part 03.jpeg)
 
 Wie ersichtlich ist, weist der US-Markt – wie ein Großteil der 
 Wertpapiermärkte – einen deutlichen Aufwärtstrend auf, der sich positiv 
@@ -379,7 +379,7 @@ bzw. Risikometrik) durch Boxplots (Spear 1952) zu erläutern; sollte euer
  Interesse anderen Aspekten gelten, findet ihr alle Metriken (z.B. Least
  Partial Moments, o.ä.) und interaktive Grafiken im [Repository](https://github.com/chemicalstats/ChemStats-Archiv).
  
-![*Grundstruktur Boxplot (Spear 1952)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03d%20Part%2003.jpeg)
+![*Grundstruktur Boxplot (Spear 1952)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03d Part 03.jpeg)
 
 Warum Boxplots? Nunja, einerseits ist es so möglich, die 
 Zentralität und Streuung von Verteilung durch eine kleine Anzahl an 
@@ -399,9 +399,9 @@ klares Muster über die Horizonte gleitender Fenster – unabhängig davon,
 ob es Einmalbeträge oder Sparplanzahlungen gewesen wären, inwieweit wir 
 Steuern oder Gebühren beachten und welchen Hebelfaktor wir wählen:
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Long x2 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03e%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Long x2 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03e Part 03.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Long x1 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03f%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Long x1 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03f Part 03.jpeg)
 
 Im Hinblick auf die Rendite ist zunächst ein leichtes Absinken der
  Mediane beim Übergang von 10 Jahre auf 20 Jahre Investitionszeit für 
@@ -458,9 +458,9 @@ in Abhängigkeit der Investitionslänge reduziert worden. Auf niedrigerem
 Niveau finden sich diese Ergebnisse auch für den kleinen Amumbo. Alles 
 klar, wie sieht’s auf der Short-Seite aus?
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Short x2 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03g%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Short x2 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03g Part 03.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Short x1 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03h%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Short x1 unter Buy-and-Hold-Strategien*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03h Part 03.jpeg)
 
 Naja, was habt ihr erwartet? Auf der Short-Seite wirkt sich der 
 Long Bias in unerbittlicher Weise aus und hätte Buy-and-Hold-Anleger im 
@@ -493,9 +493,9 @@ die *"nackten Zahlen"* bevorzugen, weshalb ich euch die
 Kenntwerte für Rendite und Risiko in Abhängigkeit von Hebelfaktor, 
 Investitionsweise und -länge nochmal als Tabellen aufbereitet habe:
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Einmalanlagen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03i%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Einmalanlagen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03i Part 03.jpeg)
  
-![*Empirische Verteilung von Rendite- und Risikometriken für Sparplan-Anlagen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03j%20Part%2003.jpeg)
+![*Empirische Verteilung von Rendite- und Risikometriken für Sparplan-Anlagen*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03j Part 03.jpeg)
 
 So weit, so gut, jetzt haben wir ein Verständnis davon, wie sich 
 Buy-and-Hold für Long- und Short-ETFs geschlagen hätte, aber vielleicht 
@@ -520,13 +520,13 @@ Vergleich zur Referenz eingebracht hätten. Abgesehen davon zeigt sich
 erneut, dass Sparpläne in der Lage sind Risiken in erheblichem Maße zu 
 reduzieren – unabhängig von der Länge der Investition.
  
-![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 10 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03k%20Part%2003.jpeg)
+![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 10 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03k Part 03.jpeg)
  
-![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 20 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03l%20Part%2003.jpeg)
+![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 20 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03l Part 03.jpeg)
  
-![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 30 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03m%20Part%2003.jpeg)
+![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 30 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03m Part 03.jpeg)
  
-![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 40 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/050%20Post0%20Graphics/03n%20Part%2003.jpeg)
+![*Relative Dynamiken der True Time Weighted Rate of Returns und Maximum Drawdowns (Gleitende Fenster, 40 Jahre)*](https://raw.githubusercontent.com/chemicalstats/ChemStats-Archiv/refs/heads/main/01%20Project%20Amumbo/05 Post Graphics/03n Part 03.jpeg)
 
 Puh, wir haben es geschafft! Nachdem wir in den letzten Beiträgen 
 lange an Materialien gebastelt haben, gab es dieses Mal erneut eine 
