@@ -1,0 +1,10 @@
+Package: myLeverage
+Type: Package
+Title: Legacy Backtesting Tools for Leveraged Investment Strategies
+Version: 0.1
+Date: 2023-06-30
+Author: ChemicalStats
+Description: Provides an early alpha implementation of tools for simulating and evaluating leveraged investment strategies, including portfolio rebalancing, dollar-cost averaging, trading signals, asset splits, transaction costs, fund fees, drawdowns, return statistics, and simplified tax effects. This legacy version is provided for orientation and illustrative purposes only and is not intended for productive, validated, tax, legal, or investment-related use.
+License: GPL (>= 3)
+Imports: Rcpp (>= 1.0.14)
+LinkingTo: Rcpp
